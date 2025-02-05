@@ -3,11 +3,11 @@ import { Product } from '@/lib/types';
 export const products: Product[] = [
   {
     id: '1',
-    name: 'Premium Foam Padding',
+    name: 'LD PU Foam',
     description: 'High-quality foam padding material perfect for furniture, packaging, and industrial applications.',
     basePrice: 10,
     category: 'Foam',
-    image: 'https://plus.unsplash.com/premium_photo-1661595077028-9ff236368cb5?q=80&w=3538&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://3.imimg.com/data3/NA/AQ/MY-5298654/pu-foam-500x500.jpg',
     densities: ['9 kg/m³', '10 kg/m³', '12 kg/m³', '14 kg/m³','16 kg/m³', '18 kg/m³', '20 kg/m³', '22 kg/m³', '23 kg/m³'],
     dimensions: [2, 5, 10, 20, 25, 30, 40, 50, 75, 100, 150, 200, 250],
     sizes: [
@@ -53,7 +53,7 @@ export const products: Product[] = [
       description: 'Premium quality super soft foam, ideal for upholstery, mattresses, and industrial use.',
       basePrice: 10, // Adjust the price if needed
       category: 'Foam',
-      image: 'https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&q=80&w=800',
+      image: 'https://5.imimg.com/data5/RA/FY/MY-56919196/super-soft-foam-sheet.jpg',
       densities: ['24 Kg/m³', '28 Kg/m³', '32 Kg/m³'],
       dimensions: [2, 5, 10, 20, 25, 30, 40, 50, 75, 100, 150, 200, 250],
       sizes: [
@@ -79,7 +79,7 @@ export const products: Product[] = [
     description: 'High-quality memory foam sheets ideal for bedding, upholstery, and customized cushioning applications.',
     basePrice: 10, // Adjust as needed
     category: 'Foam',
-    image: 'https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&q=80&w=800',
+    image: 'https://m.media-amazon.com/images/I/31OO7SBrB8L.jpg',
     densities: ['24 Kg/m³', '28 KG/m³', '32 KG/m³'],
     dimensions: [2, 5, 10, 20, 25, 30, 40, 50, 75, 100, 150, 200, 250],
     sizes: [
@@ -126,7 +126,7 @@ export const products: Product[] = [
       description: 'High-quality latex sheet material suitable for bedding, furniture, and industrial uses.',
       basePrice: 15,
       category: 'Foam',
-      image: 'https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&q=80&w=800',
+      image: 'https://5.imimg.com/data5/MQ/YX/MY-11969714/foam-bed-mattress.jpg',
       densities: ['Standard LS'],
       dimensions: [2, 5, 10, 20, 25, 30, 40, 50, 75, 100, 150, 200, 250],
       sizes: [
@@ -149,7 +149,7 @@ export const products: Product[] = [
     description: 'Premium 7-zone latex foam sheets designed for optimal comfort and support in bedding, furniture, and ergonomic applications.',
     basePrice: 20, // Example base price, you can update this value
     category: 'Foam',
-    image: 'https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&q=80&w=800', // Replace with an appropriate image URL if available
+    image: 'https://5.imimg.com/data5/SELLER/Default/2023/9/341157692/MM/LX/YE/141117433/zero-foam-flex-mattress-1000x1000.jpeg', // Replace with an appropriate image URL if available
     densities: ['Standard L7ZS'], // Adjust if needed
     dimensions: [
       2, 5, 10, 20, 25, 30, 40, 50, 75, 100, // Equivalent to 4 inches
@@ -178,7 +178,7 @@ export const products: Product[] = [
     description: 'High-density coir sheet ideal for mattresses, cushions, packaging, and industrial use.',
     basePrice: 15,
     category: 'Foam',
-    image: 'https://img.freepik.com/premium-photo/mattress-filler-coconut-coir_176445-1760.jpg?w=2000', // Replace with an actual coir-related image URL
+    image: 'https://www.sughana.com/image/products/rubberized-coir-sheet.jpg', // Replace with an actual coir-related image URL
     densities: ['60 Kg/m³', '70 Kg/m³', '80 Kg/m³', '90 Kg/m³', '100 Kg/m³', '110 Kg/m³', '120 Kg/m³'],
     dimensions: [10, 20, 25, 30, 40, 50, 75, 100, 150, 200], // Dimensions in mm
     sizes: [
@@ -201,7 +201,7 @@ export const products: Product[] = [
     description: 'High-density rebonded foam sheets designed for enhanced durability and support, suitable for mattresses, cushioning, and industrial applications.',
     basePrice: 10,
     category: 'Foam',
-    image: 'https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&q=80&w=800',
+    image: 'https://5.imimg.com/data5/AO/VM/HT/SELLER-6371482/bonded-foam-sheets-500x500.jpg',
     densities: ['60 KG/m³', '70 KG/m³', '80 KG/m³', '90 KG/m³', '100 KG/m³', '110 KG/m³', '120 KG/m³'],
     dimensions: [25, 30, 40, 50, 75, 100, 150],
     sizes: [
@@ -222,10 +222,10 @@ export const products: Product[] = [
   {
     id: '10',
     name: 'Recron Fibre Pillow',
-    description: 'High-density coir sheet ideal for mattresses, cushions, packaging, and industrial use.',
+    description: 'Recron Pillow',
     basePrice: 10,
     category: 'Pillow',
-    image: 'https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&q=80&w=800', // Replace with an actual coir-related image URL
+    image: 'https://www.buzpick.com/wp-content/uploads/2020/09/Recron-Certified-Bliss-Fibre-Pillow-43-cm-x-69-cm-White-1.jpg', // Replace with an actual coir-related image URL
     densities: ['Standard 16 inch' , 'Standard 17 inch'],
     dimensions: [1], // Dimensions in mm
     sizes: [
@@ -246,7 +246,7 @@ export const products: Product[] = [
     description: 'High-density coir sheet ideal for mattresses, cushions, packaging, and industrial use.',
     basePrice: 10,
     category: 'Pillow',
-    image: 'https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&q=80&w=800', // Replace with an actual coir-related image URL
+    image: 'https://www.seevo.in/cdn/shop/products/4_ce8bc3f1-b41e-4bc6-bd71-5b177f0b0a95_1445x.jpg?v=1700232047', // Replace with an actual coir-related image URL
     densities: ['Standard 16 Inch' , 'Standard 17 Inch'],
     dimensions: [1], // Dimensions in mm
     sizes: [
@@ -264,10 +264,10 @@ export const products: Product[] = [
   {
     id: '12',
     name: 'Latex Pillow',
-    description: 'High-density coir sheet ideal for mattresses, cushions, packaging, and industrial use.',
+    description: 'Latex Pillow',
     basePrice: 10,
     category: 'Pillow',
-    image: 'https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&q=80&w=800', // Replace with an actual coir-related image URL
+    image: 'https://images.meesho.com/images/products/203619752/goywt_512.webp', // Replace with an actual coir-related image URL
     densities: ['Standard 16 inch ' , 'Standard 17 inch '],
     dimensions: [1], // Dimensions in mm
     sizes: [
@@ -287,11 +287,11 @@ export const products: Product[] = [
 
   {
     id: '13',
-    name: 'ROTTO Cloth Roll',
+    name: 'ROTTO Fabric Roll',
     description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
     basePrice: 10,
     category: 'Quiltings',
-    image: 'https://images.unsplash.com/photo-1598032894045-e6274829806e?auto=format&fit=crop&q=80&w=800',
+    image: 'https://www.dial4trade.com/uploaded_files/product_images/roto-fabric-for-mattress-u-1180561324259202338.jpg',
     densities: ['70 GSM', '80 GSM', '90 GSM', '100 GSM', '110 GSM', '120 GSM'],
     sizes: ['80inch', '90inch'],
     features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
@@ -306,11 +306,11 @@ export const products: Product[] = [
    
   {
     id: '14',
-    name: 'SATIN Cloth Roll',
-    description: 'Premium satin cloth roll with a smooth and luxurious texture, perfect for quilting and various other applications.',
+    name: 'SATIN Fabric Roll',
+    description: 'Premium satin Fabric roll with a smooth and luxurious texture, perfect for quilting and various other applications.',
     basePrice: 10,
     category: 'Quiltings',
-    image: 'https://images.unsplash.com/photo-1554042140-e6dbfabf3944?auto=format&fit=crop&q=80&w=800',
+    image: 'https://fabricstrades.com/wp-content/uploads/2022/08/plain-dyed-100-Polyester-satin-fabric-for-women-garment-wedding-bridal-5.png',
     densities: ['80GSM', '100GSM', '120GSM', '150GSM', '180GSM', '240GSM'],
     sizes: ['80inch', '90inch'],
     features: ['Luxurious texture', 'Durable', 'Lightweight', 'Soft and smooth finish'],
@@ -325,11 +325,11 @@ export const products: Product[] = [
 
 {
   id: '15',
-  name: 'COTTON Cloth Roll',
-  description: 'High-quality cotton cloth roll known for its durability and softness, ideal for quilting and various applications.',
+  name: 'COTTON Fabric Roll',
+  description: 'High-quality cotton fabric roll known for its durability and softness, ideal for quilting and various applications.',
   basePrice: 10,
   category: 'Quiltings',
-  image: 'https://images.unsplash.com/photo-1616627972373-e71cd162f1e2?auto=format&fit=crop&q=80&w=800',
+  image: 'https://tiimg.tistatic.com/fp/1/007/581/white-cotton-fabric-roll-for-bedding-bedsheet-curtain-cushions-etc--169.jpg',
   densities: ['100GSM', '200GSM', '300GSM', '400GSM'],
   sizes: ['80inch', '90inch'],
   features: ['Soft texture', 'Durable', 'Lightweight', 'Natural material'],
@@ -344,11 +344,11 @@ export const products: Product[] = [
 
 {
   id: '16',
-  name: 'JACQUARD (OR KNITTED) Cloth Roll',
-  description: 'High-quality Jacquard (or Knitted) cloth roll with intricate patterns and superior durability, ideal for quilting and other applications.',
+  name: 'JACQUARD (OR KNITTED) Fabric Roll',
+  description: 'High-quality Jacquard (or Knitted) fabric roll with intricate patterns and superior durability, ideal for quilting and other applications.',
   basePrice: 10,
   category: 'Quiltings',
-  image: 'https://images.unsplash.com/photo-1560856975-bad63bd29f38?auto=format&fit=crop&q=80&w=800',
+  image: 'https://img2.exportersindia.com/product_images/bc-full/dir_45/1336496/knitted-jacquard-fabric-1499172828-3103883.jpeg',
   densities: ['200GSM', '300GSM', '400GSM'],
   sizes: ['80inch', '90inch'],
   features: ['Intricate patterns', 'Durable', 'Soft texture', 'Lightweight and versatile'],
@@ -367,7 +367,7 @@ export const products: Product[] = [
   "description": "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   "basePrice": 10,
   "category": "Packing Material",
-  "image": "https://plus.unsplash.com/premium_photo-1661595077028-9ff236368cb5?q=80&w=3538&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
   "densities": ["18 kg/m³", "20 kg/m³", "23 kg/m³"],
   "dimensions": [2, 5, 10, 15],
   "sizes": [
@@ -387,7 +387,7 @@ export const products: Product[] = [
   "description": "High-quality EPE foam sheets, perfect for packaging and protecting a wide range of items during storage or transportation.",
   "basePrice": 10,
   "category": "Packing Material",
-  "image": "https://plus.unsplash.com/premium_photo-1661595077028-9ff236368cb5?q=80&w=3538&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "image": "https://m.media-amazon.com/images/I/718+Jl14oOL.jpg",
   "densities": ["18 kg/m³", "20 kg/m³", "23 kg/m³"],
   "dimensions": [5,10,25,50,75,100,125,150 ],
   "sizes": [

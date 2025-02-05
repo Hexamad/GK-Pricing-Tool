@@ -75,7 +75,7 @@ function App() {
           <div className="flex items-center justify-between mb-8">
             <div className="flex items-center gap-2">
               <Store className="h-8 w-8" />
-              <h1 className="text-3xl font-bold">Gurukrupa Traders-Make Your Own Mattress</h1>
+              <h1 className="text-3xl font-bold">Gurukrupa Traders</h1>
             </div>
             <Cart
               items={cartItems}
