@@ -7,7 +7,8 @@ export interface Product {
   image: string;
   densities: string[];
   dimensions: number[];
-  sizes: string[];
+  sizes: object;
+  metrics: string[];
   features: string[];
   specs: Record<string, string>;
 }
@@ -16,6 +17,7 @@ export interface ProductSelection {
   density: string;
   dimension: number;
   size: string;
+  metrics: string;
 }
 
 export type SortOption = 'name' | 'price-asc' | 'price-desc';

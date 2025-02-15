@@ -7,6 +7,7 @@ import { calculatePrice, formatPrice } from '@/lib/utils';
 import { Badge } from '@/components/ui/badge';
 import { ShoppingCart } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
+import { set } from 'date-fns';
 
 interface ProductCardProps {
   product: Product;
@@ -18,8 +19,49 @@ export function ProductCard({ product, onAddToCart }: ProductCardProps) {
   const [selection, setSelection] = useState<ProductSelection>({
     density: product.densities[0],
     dimension: product.dimensions[0],
-    size: product.sizes[0],
+    // size: product.sizes[0],
+    size: '',
+    metrics: product.metrics[0],
   });
+
+  console.log("Product Selection : ", selection);
+  const [sizes, setSizes] = useState(Object);
+
+  const handleMetricChange = (value: any) => {
+    setSizes([]);
+    console.log(value);
+    switch (value) {
+      case "mm":
+        console.log("mm");
+        //@ts-ignore
+        setSizes(product.sizes?.mm);
+        break;
+      case "cm":
+        console.log("cm");
+        //@ts-ignore
+        setSizes(product.sizes?.cm);
+        break;
+      case "inch":
+        console.log("inch");
+        //@ts-ignore
+        setSizes(product.sizes?.inches);
+        break;
+      case "feet":
+        console.log("feet");
+        //@ts-ignore
+        console.log(typeof (product.sizes?.feet));
+        //@ts-ignore
+        setSizes(product.sizes?.feet);
+        console.log("Sizes :", sizes);
+
+        break;
+
+      default:
+        console.error("Invalid metric");
+        break;
+    }
+
+  }
 
   const price = calculatePrice(product.basePrice, selection);
 
@@ -40,6 +82,7 @@ export function ProductCard({ product, onAddToCart }: ProductCardProps) {
           className="object-cover w-full h-full transition-transform hover:scale-105"
         />
       </div>
+
       <CardHeader>
         <div className="flex justify-between items-start gap-4">
           <CardTitle className="text-xl">{product.name}</CardTitle>
@@ -49,6 +92,29 @@ export function ProductCard({ product, onAddToCart }: ProductCardProps) {
         </div>
         <p className="text-sm text-muted-foreground">{product.description}</p>
       </CardHeader>
+      <CardContent>
+        <div className='space-y-4'>
+          <Select
+            value={selection.metrics.toString()}
+            onValueChange={(value) => { setSelection({ ...selection, metrics: value }); handleMetricChange(value) }}
+          >
+            <SelectTrigger>
+              <SelectValue placeholder="Metrics" />
+            </SelectTrigger>
+            <SelectContent>
+              {product.metrics.map((dim) => (
+                <SelectItem key={dim} value={dim.toString()}>
+                  {dim}
+                </SelectItem>
+              ))}
+            </SelectContent>
+          </Select>
+
+        </div>
+      </CardContent>
+
+
+
       <CardContent>
         <div className="space-y-4">
           <div className="grid grid-cols-2 gap-4">
@@ -67,21 +133,22 @@ export function ProductCard({ product, onAddToCart }: ProductCardProps) {
                 ))}
               </SelectContent>
             </Select>
-            <Select
-              value={selection.size}
-              onValueChange={(value) => setSelection({ ...selection, size: value })}
-            >
-              <SelectTrigger>
-                <SelectValue placeholder="Size" />
-              </SelectTrigger>
-              <SelectContent>
-                {product.sizes.map((size) => (
-                  <SelectItem key={size} value={size}>
-                    {size.charAt(0).toUpperCase() + size.slice(1)}
-                  </SelectItem>
-                ))}
-              </SelectContent>
-            </Select>
+            {Object.keys(sizes).length > 0 ? (
+              <Select
+                value={selection?.size ? selection?.size : ''}
+                onValueChange={(value) => setSelection({ ...selection, size: value })}
+              >
+                <SelectTrigger>
+                  <SelectValue placeholder="Size" />
+                </SelectTrigger>
+                <SelectContent>
+                  {sizes?.map((size: any) => (
+                    <SelectItem key={size} value={size}>
+                      {size?.charAt(0)?.toUpperCase() + size?.slice(1)}
+                    </SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>) : <></>}
           </div>
           <Select
             value={selection.dimension.toString()}
