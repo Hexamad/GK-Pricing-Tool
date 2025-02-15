@@ -7,7 +7,7 @@ import { calculatePrice, formatPrice } from '@/lib/utils';
 import { Badge } from '@/components/ui/badge';
 import { ShoppingCart } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
-import { set } from 'date-fns';
+// import { set } from 'date-fns';
 
 interface ProductCardProps {
   product: Product;
