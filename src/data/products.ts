@@ -7,28 +7,27 @@ export const products: Product[] = [
     description: 'High-quality foam padding material perfect for furniture, packaging, and industrial applications.',
     basePrice: 10,
     category: 'Foam',
-    image: 'https://3.imimg.com/data3/NA/AQ/MY-5298654/pu-foam-500x500.jpg',
+    image: 'https://5.imimg.com/data5/XF/AM/SG/NSDMERP-56297551/image-1000x1000.jpeg',
     densities: ['9 kg/m³', '10 kg/m³', '12 kg/m³', '14 kg/m³','16 kg/m³', '18 kg/m³', '20 kg/m³', '22 kg/m³', '23 kg/m³'],
     dimensions: [2, 5, 10, 20, 25, 30, 40, 50, 75, 100, 150, 200, 250],
     
       sizes: {
         "feet": [
-          '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-          '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-          '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+          '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet', 
+          '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
         ],
         "inches": [
-          '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+          '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
           '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
           '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
         ],
         "cm": [
-          '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+         '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
           '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
           '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
         ],
         "mm": [
-          '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+          '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
           '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
           '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
         ]
@@ -512,7 +511,7 @@ export const products: Product[] = [
 
   {
     id: '13',
-    name: 'ROTTO Fabric Roll',
+    name: 'ROTTO Fabric',
     description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
     basePrice: 10,
     category: 'Quiltings',
@@ -552,11 +551,11 @@ export const products: Product[] = [
    
   {
     id: '14',
-    name: 'SATIN Fabric Roll',
+    name: 'SATIN Fabric',
     description: 'Premium satin Fabric roll with a smooth and luxurious texture, perfect for quilting and various other applications.',
     basePrice: 10,
     category: 'Quiltings',
-    image: 'https://fabricstrades.com/wp-content/uploads/2022/08/plain-dyed-100-Polyester-satin-fabric-for-women-garment-wedding-bridal-5.png',
+    image: 'https://5.imimg.com/data5/SELLER/Default/2021/1/UU/ZD/EB/24888004/ata-b-satin-1-1000x1000.jpg',
     densities: ['80GSM', '100GSM', '120GSM', '150GSM', '180GSM', '240GSM'],
     sizes: {
       "feet": [
@@ -731,7 +730,253 @@ export const products: Product[] = [
 },
 
 
+{
+  "id": "19",
+  "name": "BOPP TAPE",
+  "description": "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  "basePrice": 10,
+  "category": "Packing Material",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
+  "densities": ["18 kg/m³", "20 kg/m³", "23 kg/m³"],
+  "dimensions": [50.],
+  "sizes": ['60 meter'], 
+  "features": [],
+  "specs": {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 
+{
+  "id": "20",
+  "name": "PVC ROLL",
+  "description": "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  "basePrice": 10,
+  "category": "Packing Material",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
+  "densities": ["18 kg/m³", "20 kg/m³", "23 kg/m³"],
+  "dimensions": [42, 78],
+  "sizes": ['100 meter'], 
+  "features": [],
+  "specs": {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+
+{
+  "id": "21",
+  "name": "AIR BUBBLE ROLL",
+  "description": "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  "basePrice": 10,
+  "category": "Packing Material",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
+  "densities": [""],
+  "dimensions": [],
+  "sizes": [''], 
+  "features": [],
+  "specs": {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+{
+  "id": "22",
+  "name": "EVA FOAM",
+  "description": "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  "basePrice": 10,
+  "category": "Packing Material",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
+  "densities": [""],
+  "dimensions": [],
+  "sizes": [''], 
+  "features": [],
+  "specs": {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+
+{
+  "id": "23",
+  "name": "PU FOAM ROLL",
+  "description": "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  "basePrice": 10,
+  "category": "Packing Material",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
+  "densities": [""],
+  "dimensions": [],
+  "sizes": [''], 
+  "features": [],
+  "specs": {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+
+{
+  "id": "24",
+  "name": "NON WOVEN FABRIC",
+  "description": "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  "basePrice": 10,
+  "category": "Packing Material",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
+  "densities": [""],
+  "dimensions": [],
+  "sizes": [''], 
+  "features": [],
+  "specs": {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+
+{
+  "id": "25",
+  "name": "STAPLER PIN",
+  "description": "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  "basePrice": 10,
+  "category": "Packing Material",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
+  "densities": [""],
+  "dimensions": [],
+  "sizes": [''], 
+  "features": [],
+  "specs": {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+
+
+{
+  "id": "26",
+  "name": "REXIN",
+  "description": "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  "basePrice": 10,
+  "category": "Packing Material",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
+  "densities": [""],
+  "dimensions": [],
+  "sizes": [''], 
+  "features": [],
+  "specs": {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+
+{
+  "id": "27",
+  "name": "REXIN",
+  "description": "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  "basePrice": 10,
+  "category": "Packing Material",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
+  "densities": [""],
+  "dimensions": [],
+  "sizes": [''], 
+  "features": [],
+  "specs": {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+{
+  "id": "28",
+  "name": "MATTRESS TAPE",
+  "description": "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  "basePrice": 10,
+  "category": "Packing Material",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
+  "densities": [""],
+  "dimensions": [],
+  "sizes": [''], 
+  "features": [],
+  "specs": {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+
+{
+  "id": "29",
+  "name": "ELASTIC NIVAAR ",
+  "description": "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  "basePrice": 10,
+  "category": "Packing Material",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
+  "densities": [""],
+  "dimensions": [],
+  "sizes": [''], 
+  "features": [],
+  "specs": {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+{
+  "id": "30",
+  "name": "SUPER SOFT FOAM",
+  "description": "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  "basePrice": 10,
+  "category": "Packing Material",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
+  "densities": [""],
+  "dimensions": [],
+  "sizes": [''], 
+  "features": [],
+  "specs": {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
   
 ];
