@@ -422,12 +422,6 @@ export const products: Product[] = [
     metrics: ['mm', 'cm', 'inch', 'feet']
     },
 
-
-
-
-
-
-
     {
       id: '11',
       name: 'Fire Retardant Foam (FR FOAM)',
@@ -511,7 +505,6 @@ export const products: Product[] = [
       metrics: ['mm', 'cm', 'inch', 'feet']
     },
 
-    
 
   {
   id: '13',
@@ -538,8 +531,6 @@ export const products: Product[] = [
   metrics: ['mm', 'cm', 'inch', 'feet']
 },
   
-
-
 {
   id: '14',
   name: 'Bonnel Spring mattress ',
@@ -621,15 +612,7 @@ export const products: Product[] = [
   metrics: ['mm', 'cm', 'inch', 'feet']
 },
 
-
-
   // foam ends 
-
-
-
-
-
-
 
 // pillow
 
@@ -744,9 +727,6 @@ export const products: Product[] = [
     metrics: ['mm', 'cm', 'inch']
   },
 
-
-
-
   {
     id: '19',
     name: 'ROTTO Fabric',
@@ -785,10 +765,6 @@ export const products: Product[] = [
     },metrics: ['mm', 'cm', 'inch', 'feet'],
     dimensions: [5,7,10,12,15,20,25],
   },
-
-   
-
-
 
   // new fabric 
 
@@ -1462,7 +1438,7 @@ export const products: Product[] = [
   description: 'High-quality Bostik adhesive ideal for various packing and bonding applications.',
   basePrice: 10,
   category: 'Mattress Raw Material',
-  image: 'https://5.imimg.com/data5/SELLER/Default/2023/3/MB/DB/DV/6563603/5l-bostik-pu-1705-rubber-adessive.jpg', // Replace with an actual image URL
+  image: 'https://drive.google.com/thumbnail?id=1bNaYP16LUGjuDGAt94cxARWclaNoaHAH', // Replace with an actual image URL
   densities: ['50'],
   dimensions: [40],
   sizes: [''],
@@ -1493,10 +1469,6 @@ export const products: Product[] = [
   },
   metrics: ['mm', 'cm', 'inch', 'feet']
 },
-
-
-
-
 
 
 {
@@ -1644,7 +1616,7 @@ export const products: Product[] = [
   description: 'High-quality Sofa Back Rest designed for additional comfort and support.',
   basePrice: 50,
   category: 'Mattress Raw Material',
-  image: 'https://imgur.com/37Xf0Mk', // Replace with an actual image URL
+  image: 'https://lh3.googleusercontent.com/d/1ckUnKYDKZn7jc7rDXmWookH7UzdkmYg0=s220?authuser=0', // Replace with an actual image URL
   densities: ['100 mm x 175mm' ,'175 mm x 250mm  '],
   dimensions: [60, 40, 20], // Example dimensions in cm (length, width, height)
   sizes: ['height 15 inch x width 24 inch'],   
