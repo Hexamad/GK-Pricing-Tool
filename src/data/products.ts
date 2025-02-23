@@ -1294,7 +1294,7 @@ export const products: Product[] = [
   description: 'High-quality mattress protector designed to keep your mattress clean and protected.',
   basePrice: 10,
   category: 'Mattress Raw Material',
-  image: 'https://m.media-amazon.com/images/I/41v5TfFTJOL._SX679_.jpg', // Replace with an actual image URL
+  image: 'https://m.media-amazon.com/images/I/71Dx8PRJmyL.jpg', // Replace with an actual image URL
   densities: ['Standard'],
   dimensions: [2, 2.5, 3, 4, 5, 6],
   sizes: {
@@ -1372,65 +1372,65 @@ export const products: Product[] = [
 
 
 
-// {
-//   id: '41',
-//   name: 'Folding Mattress',
-//   description: 'High-quality folding mattress designed for easy storage and transport.',
-//   basePrice: 10,
-//   category: 'Mattress Raw Material',
-//   image: 'https://m.media-amazon.com/images/I/81pR3H2XpgL._SL1500_.jpg', // Replace with an actual image URL
-//   densities: ["40"],
-//   dimensions: [6],
-//   sizes: [],
-//   features: ['Portable', 'Durable', 'Easy to store', 'Customizable sizes'],
-//   specs: {
-//     'Material': 'Foam',
-//     'Certification': 'ISO 9001',
-//     'Color': 'White'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: '41',
+  name: 'Folding Mattress',
+  description: 'High-quality folding mattress designed for easy storage and transport.',
+  basePrice: 10,
+  category: 'Hospital Range',
+  image: 'https://m.media-amazon.com/images/I/81pR3H2XpgL._SL1500_.jpg', // Replace with an actual image URL
+  densities: ["40"],
+  dimensions: [6],
+  sizes: [],
+  features: ['Portable', 'Durable', 'Easy to store', 'Customizable sizes'],
+  specs: {
+    'Material': 'Foam',
+    'Certification': 'ISO 9001',
+    'Color': 'White'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 
 
 
-// {
-//   id: '42',
-//   name: 'Hospital Mattress',
-//   description: 'High-quality hospital mattress designed for comfort and support in medical settings.',
-//   basePrice: 10,
-//   category: 'Mattress Raw Material',
-//   image: 'https://aerocommattress.com/wp-content/uploads/2023/10/NO-FOLD-1.jpg', // Replace with an actual image URL
-//   densities: ['40'],
-//   dimensions: [60],
-//   sizes: [''],
-//   features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
-//   specs: {
-//     'Material': 'Foam',
-//     'Certification': 'ISO 9001',
-//     'Color': 'White'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: '42',
+  name: 'Hospital Mattress',
+  description: 'High-quality hospital mattress designed for comfort and support in medical settings.',
+  basePrice: 10,
+  category: 'Hospital Range',
+  image: 'https://aerocommattress.com/wp-content/uploads/2023/10/NO-FOLD-1.jpg', // Replace with an actual image URL
+  densities: ['40'],
+  dimensions: [60],
+  sizes: [''],
+  features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
+  specs: {
+    'Material': 'Foam',
+    'Certification': 'ISO 9001',
+    'Color': 'White'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-// {
-//   id: '43',
-//   name: 'Operation Theatre Mattress',
-//   description: 'High-quality operation theatre mattress designed for comfort and support during surgeries.',
-//   basePrice: 10,
-//   category: 'Mattress Raw Material',
-//   image: 'https://5.imimg.com/data5/SELLER/Default/2022/7/GB/AQ/OV/14982509/ma4u-product7679-edged-2-scaled-1000x1000.jpg', // Replace with an actual image URL
-//   densities: ['40'],
-//   dimensions: [60],
-//   sizes: [],
-//   features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
-//   specs: {
-//     'Material': 'Foam',
-//     'Certification': 'ISO 9001',
-//     'Color': 'White'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: '43',
+  name: 'Operation Theatre Mattress',
+  description: 'High-quality operation theatre mattress designed for comfort and support during surgeries.',
+  basePrice: 10,
+  category: 'Hospital Range',
+  image: 'https://5.imimg.com/data5/SELLER/Default/2022/7/GB/AQ/OV/14982509/ma4u-product7679-edged-2-scaled-1000x1000.jpg', // Replace with an actual image URL
+  densities: ['40'],
+  dimensions: [60],
+  sizes: [],
+  features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
+  specs: {
+    'Material': 'Foam',
+    'Certification': 'ISO 9001',
+    'Color': 'White'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 {
   id: '44',
@@ -1553,7 +1553,7 @@ export const products: Product[] = [
 
 {
   id: '48',
-  name: 'Mattress Piping Lace',
+  name: 'Low Quality Mattress Piping Lace',
   description: 'High-quality mattress piping lace for enhancing the durability and appearance of mattresses.',
   basePrice: 10,
   category: 'Mattress Raw Material',
@@ -1576,7 +1576,7 @@ export const products: Product[] = [
   description: 'High-quality mattress piping lace for enhancing the durability and appearance of mattresses.',
   basePrice: 10,
   category: 'Mattress Raw Material',
-  image: 'https://m.media-amazon.com/images/I/91XadP8Cg3L._AC_UF894,1000_QL80_.jpg', // Replace with an actual image URL
+  image: 'https://5.imimg.com/data5/ANDROID/Default/2023/8/339519844/BA/ZT/WZ/126633280/product-jpeg-1000x1000.jpg', // Replace with an actual image URL
   densities: ['800 GM'],
   dimensions: [45], // Dimensions in mm
   sizes: ['50 meter'],
