@@ -395,130 +395,130 @@ export const products: Product[] = [
   },
 
 
-//   // new one 
-//   {
-//     id: '10',
-//     name: 'HR Foam',
-//     description: 'High-resilience foam suitable for a variety of applications including furniture, bedding, and industrial uses.',
-//     basePrice: 10,
-//     category: 'Foam',
-//     image: 'https://lh3.googleusercontent.com/d/1f8X2nqJvAgHpWJpf_OfTGHzrp7M2gA4U=s220?authuser=0', // Replace with an actual image URL
-//     densities: ['32 density','40 density','50 density' ,'60 density',],
-//     dimensions: [2, 3, 4, 5, 6, 8, 10, 12, 15, 18, 19, 20, 25, 30, 35, 40, 45, 50, 60, 70, 75, 80, 85, 90, 100, 125, 150],
-//     sizes: {
-//       "feet": [
-//       '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//       '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//       '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//       ],
-//       "inches": [
-//       '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//       '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//       '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//       ],
-//       "cm": [
-//       '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//       '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//       '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//       '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//       '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//       '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['Fire retardant', 'Durable', 'Moisture resistant', 'Custom cuttable'],
-//     specs: {
-//       'Material': 'Polyurethane',
-//       'Certification': 'ISO 9001',
-//       'Fire Rating': 'Class B',
-//       'Color': 'White'
-//     },
-//     metrics: ['mm', 'cm', 'inch', 'feet']
-//     },
+  // new one 
+  {
+    id: '10',
+    name: 'HR Foam',
+    description: 'High-resilience foam suitable for a variety of applications including furniture, bedding, and industrial uses.',
+    basePrice: 10,
+    category: 'Foam',
+    image: 'https://lh3.googleusercontent.com/d/1f8X2nqJvAgHpWJpf_OfTGHzrp7M2gA4U=s220?authuser=0', // Replace with an actual image URL
+    densities: ['32 density','40 density','50 density' ,'60 density',],
+    dimensions: [2, 3, 4, 5, 6, 8, 10, 12, 15, 18, 19, 20, 25, 30, 35, 40, 45, 50, 60, 70, 75, 80, 85, 90, 100, 125, 150],
+    sizes: {
+      "feet": [
+      '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+      '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+      '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+      ],
+      "inches": [
+      '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+      '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+      '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+      ],
+      "cm": [
+      '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+      '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+      '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+      '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+      '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+      '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['Fire retardant', 'Durable', 'Moisture resistant', 'Custom cuttable'],
+    specs: {
+      'Material': 'Polyurethane',
+      'Certification': 'ISO 9001',
+      'Fire Rating': 'Class B',
+      'Color': 'White'
+    },
+    metrics: ['mm', 'cm', 'inch', 'feet']
+    },
 
-//     {
-//       id: '11',
-//       name: 'Fire Retardant Foam (FR FOAM)',
-//       description: 'High-resilience foam suitable for a variety of applications including furniture, bedding, and industrial uses.',
-//       basePrice: 10,
-//       category: 'Foam',
-//       image: 'https://cpimg.tistatic.com/04540749/b/4/Fire-Retardant-Foam.jpg', // Replace with an actual image URL
-//       densities: ['32 density','40 density','50 density','60 density'],
-//       dimensions: [2, 3, 4, 5, 6, 8, 10, 12, 15, 18, 19, 20, 25, 30, 35, 40, 45, 50, 60, 70, 75, 80, 85, 90, 100, 125, 150],
-//       sizes: {
-//         "feet": [
-//           '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//           '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//           '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//         ],
-//         "inches": [
-//           '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//           '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//           '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//         ],
-//         "cm": [
-//           '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//           '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//           '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//         ],
-//         "mm": [
-//           '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//           '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//           '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//         ]
-//       },
-//       features: ['Fire retardant', 'Durable', 'Moisture resistant', 'Custom cuttable'],
-//       specs: {
-//         'Material': 'Polyurethane',
-//         'Certification': 'ISO 9001',
-//         'Fire Rating': 'Class B',
-//         'Color': 'White'
-//       },
-//       metrics: ['mm', 'cm', 'inch', 'feet']
-//     },
+    {
+      id: '11',
+      name: 'Fire Retardant Foam (FR FOAM)',
+      description: 'High-resilience foam suitable for a variety of applications including furniture, bedding, and industrial uses.',
+      basePrice: 10,
+      category: 'Foam',
+      image: 'https://cpimg.tistatic.com/04540749/b/4/Fire-Retardant-Foam.jpg', // Replace with an actual image URL
+      densities: ['32 density','40 density','50 density','60 density'],
+      dimensions: [2, 3, 4, 5, 6, 8, 10, 12, 15, 18, 19, 20, 25, 30, 35, 40, 45, 50, 60, 70, 75, 80, 85, 90, 100, 125, 150],
+      sizes: {
+        "feet": [
+          '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+          '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+          '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+        ],
+        "inches": [
+          '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+          '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+          '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+        ],
+        "cm": [
+          '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+          '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+          '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+        ],
+        "mm": [
+          '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+          '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+          '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+        ]
+      },
+      features: ['Fire retardant', 'Durable', 'Moisture resistant', 'Custom cuttable'],
+      specs: {
+        'Material': 'Polyurethane',
+        'Certification': 'ISO 9001',
+        'Fire Rating': 'Class B',
+        'Color': 'White'
+      },
+      metrics: ['mm', 'cm', 'inch', 'feet']
+    },
   
   
-//     {
-//       id: '12',
-//       name: 'Convulated Foam',
-//       description: 'High-resilience foam suitable for a variety of applications including furniture, bedding, and industrial uses.',
-//       basePrice: 10,
-//       category: 'Foam',
-//       image: 'https://5.imimg.com/data5/ANDROID/Default/2021/4/EF/QY/TW/169569/product-jpeg-500x500.jpg', // Replace with an actual image URL
-//       densities: ["32 density","40 density","50 density",],
-//       dimensions: [40,45,50, 60,70,75, 80, 85, 90, 100, 125, 150],
-//       sizes: {
-//         "feet": [
-//           '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//           '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//           '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//         ],
-//         "inches": [
-//           '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//           '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//           '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//         ],
-//         "cm": [
-//           '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//           '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//           '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//         ],
-//         "mm": [
-//           '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//           '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//           '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//         ]
-//       },
-//       features: ['Fire retardant', 'Durable', 'Moisture resistant', 'Custom cuttable'],
-//       specs: {
-//         'Material': 'Polyurethane',
-//         'Certification': 'ISO 9001',
-//         'Fire Rating': 'Class B',
-//         'Color': 'White'
-//       },
-//       metrics: ['mm', 'cm', 'inch', 'feet']
-//     },
+    {
+      id: '12',
+      name: 'Convulated Foam',
+      description: 'High-resilience foam suitable for a variety of applications including furniture, bedding, and industrial uses.',
+      basePrice: 10,
+      category: 'Foam',
+      image: 'https://5.imimg.com/data5/ANDROID/Default/2021/4/EF/QY/TW/169569/product-jpeg-500x500.jpg', // Replace with an actual image URL
+      densities: ["32 density","40 density","50 density",],
+      dimensions: [40,45,50, 60,70,75, 80, 85, 90, 100, 125, 150],
+      sizes: {
+        "feet": [
+          '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+          '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+          '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+        ],
+        "inches": [
+          '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+          '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+          '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+        ],
+        "cm": [
+          '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+          '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+          '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+        ],
+        "mm": [
+          '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+          '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+          '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+        ]
+      },
+      features: ['Fire retardant', 'Durable', 'Moisture resistant', 'Custom cuttable'],
+      specs: {
+        'Material': 'Polyurethane',
+        'Certification': 'ISO 9001',
+        'Fire Rating': 'Class B',
+        'Color': 'White'
+      },
+      metrics: ['mm', 'cm', 'inch', 'feet']
+    },
 
 
 //   {
