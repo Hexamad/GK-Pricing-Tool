@@ -536,7 +536,7 @@ export const products: Product[] = [
   name: 'Bonnel Spring mattress ',
   description: 'High-quality bonnel spring suitable for mattresses and other bedding applications.',
   basePrice: 10,
-  category: 'Spring',
+  category: 'Mattress Raw Material',
   image: 'https://5.imimg.com/data5/HP/QS/MY-54889916/8-inch-bonnell-spring-mattress.jpg', // Replace with an actual image URL
   densities: ['40'],
   dimensions: [75, 100, 125, 150],
@@ -577,7 +577,7 @@ export const products: Product[] = [
   name: 'Pocket Spring',
   description: 'High-quality pocket spring suitable for mattresses and other bedding applications.',
   basePrice: 10,
-  category: 'Spring',
+  category: 'Mattress Raw Material',
   image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrwlQTIravsWohMjQMm7uaikDFK6IssioJLA&s', // Replace with an actual image URL
   densities: ['40'],
   dimensions: [110, 145, 150, 180],
@@ -656,7 +656,7 @@ export const products: Product[] = [
 
   {
     id: '17',
-    name: ' ultra soft Gel Memory Foam Pillow',
+    name: ' Ultra Soft Gel Memory Foam Pillow',
     description: 'High-density coir sheet ideal for mattresses, cushions, packaging, and industrial use.',
     basePrice: 10,
     category: 'Pillow',
@@ -728,13 +728,14 @@ export const products: Product[] = [
   },
 
   {
+    //80 inch width ; 88 inch width
     id: '19',
-    name: 'ROTTO Fabric',
+    name: 'ROTTO Quilting Fabric',
     description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
     basePrice: 10,
     category: 'Quiltings',
-    image: 'https://www.dial4trade.com/uploaded_files/product_images/roto-fabric-for-mattress-u-1180561324259202338.jpg',
-    densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
+    image: 'https://5.imimg.com/data5/MB/ML/QF/ANDROID-17830911/product-jpeg-1000x1000.jpg',
+    densities: ['80 GSM'],
     sizes: {
       "feet": [
         '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
@@ -771,11 +772,11 @@ export const products: Product[] = [
 
   {
     id: '20',
-    name: 'Cotlook Fabric',
+    name: 'Cotlook Quilting Fabric',
     description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
     basePrice: 10,
     category: 'Quiltings',
-    image: 'https://www.dial4trade.com/uploaded_files/product_images/roto-fabric-for-mattress-u-1180561324259202338.jpg',
+    image: 'https://5.imimg.com/data5/ANDROID/Default/2023/7/325503991/BK/RB/MG/8192707/product-jpeg-500x500.jpg',
     densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
     sizes: {
       "feet": [
@@ -810,12 +811,13 @@ export const products: Product[] = [
 
 
   {
+        //80 inch width ; 88 inch width
     id: '21',
-    name: 'Satin Fabric',
+    name: 'Satin Quilting Fabric',
     description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
     basePrice: 10,
     category: 'Quiltings',
-    image: 'https://www.dial4trade.com/uploaded_files/product_images/roto-fabric-for-mattress-u-1180561324259202338.jpg',
+    image: 'https://5.imimg.com/data5/SELLER/Default/2023/3/295989569/TD/TB/IK/1909383/poly-gc-fabric-500x500.jpeg',
     densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
     sizes: {
       "feet": [
@@ -851,12 +853,13 @@ export const products: Product[] = [
 
 
   {
+    //image from assets folder
     id: '22',
-    name: 'Stretchable Knitting Fabric',
+    name: 'Stretchable Quilting Fabric',
     description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
     basePrice: 10,
     category: 'Quiltings',
-    image: 'https://www.dial4trade.com/uploaded_files/product_images/roto-fabric-for-mattress-u-1180561324259202338.jpg',
+    image: 'https://lh3.googleusercontent.com/d/1sekcl1HLPZ0qSajqds8lzJtX5223Qju7=s220',
     densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
     sizes: {
       "feet": [
@@ -890,6 +893,45 @@ export const products: Product[] = [
   },
 
 
+  {
+    //image from assets folder
+    id: '22',
+    name: 'Sofa-cum-Bed Fabric',
+    description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
+    basePrice: 10,
+    category: 'Mattress Raw Material',
+    image: 'https://lh3.googleusercontent.com/d/1Icue1IJ6-MYRozymZehFt7847ILX7It6=s220',
+    densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
+    sizes: {
+      "feet": [
+        '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+        '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+        '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+      ],
+      "inches": [
+        '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+      ],
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
+    specs: {
+      'Material': 'Polyester',
+      'Certification': 'ISO 14001',
+      'Color': 'White'
+    },metrics: ['mm', 'cm', 'inch', 'feet'],
+    dimensions: [5,7,10,12,15,20,25],
+  },
 
 {
   id: "23",
@@ -915,11 +957,11 @@ export const products: Product[] = [
 
 {
   id: "24",
-  name: "BOPP TAPE",
+  name: "BOPP TAPE (Cello Tape)",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
   category: "Packing Material",
-  image: "https://m.media-amazon.com/images/I/41n+vgpTthL._AC_UF1000,1000_QL80_.jpg",
+  image: "https://aristoecopack.com/cdn/shop/products/BOPPTape_600x600.jpg?v=1652861206",
   densities: ["18 density", "20 density", "23 density"],
   dimensions: [50.],
   sizes: ['60 meter'], 
@@ -933,14 +975,13 @@ export const products: Product[] = [
   metrics: ['mm', 'cm', 'inch', 'feet']
 },
 
-
 {
   id: "25",
-  name: "PVC ROLL",
+  name: "PVC Packing Clear ROLL",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
   category: "Packing Material",
-  image: "https://5.imimg.com/data5/SELLER/Default/2023/10/349278132/KX/PU/LN/27700197/plain-pvc-roll-500x500.jpg",
+  image: "https://5.imimg.com/data5/SELLER/Default/2022/9/LT/GF/EB/56591117/mattress-lamination-pvc-sheet-500x500-250x250.jpg",
   densities: ["18 density", "20 density", "23 density"],
   dimensions: [42, 78],
   sizes: ['100 meter'], 
@@ -954,111 +995,126 @@ export const products: Product[] = [
   metrics: ['mm', 'cm', 'inch', 'feet']
 },
 
+{
+  id: "26",
+  name: "AIR BUBBLE ROLL",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://images.jdmagicbox.com/quickquotes/images_main/air-bubble-wrap-for-packaging-sheet-thickness-0-3-1-mm-2217206815-x3s6f82c.jpg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-// {
-//   id: "26",
-//   name: "AIR BUBBLE ROLL",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
-//   densities: [],
-//   dimensions: [],
-//   sizes: [], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "27",
+  name: "EVA FOAM Sheet",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://img1.exportersindia.com/product_images/bc-full/2023/9/6502960/eva-foam-sheet-1693806200-7062806.jpeg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-// {
-//   id: "27",
-//   name: "EVA FOAM",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
-//   densities: [],
-//   dimensions: [],
-//   sizes: [], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "27",
+  name: "EVA FOAM Roll",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://m.packingbubblewraps.com/photo/pd145581000-multicolor_eva_foam_sheet_roll_recyclable_shock_resistant_for_sports.jpg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
+{
+  id: "28",
+  name: "PU FOAM ROLL",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://5.imimg.com/data5/SS/RR/EN/SELLER-114679/hard-foam-in-rolls-500x500.jpg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-// {
-//   id: "28",
-//   name: "PU FOAM ROLL",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
-//   densities: [""],
-//   dimensions: [],
-//   sizes: [''], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
-
-
-// {
-//   id: "29",
-//   name: "NON WOVEN FABRIC",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
-//   densities: [""],
-//   dimensions: [],
-//   sizes: [''], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
-
-
-// {
-//   id: "30",
-//   name: "STAPLER PIN",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
-//   densities: [""],
-//   dimensions: [],
-//   sizes: [''], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "29",
+  name: "NON WOVEN FABRIC",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://5.imimg.com/data5/SELLER/Default/2024/4/410119709/SF/MM/IM/25517131/pp-spunbond-nonwoven-fabric-500x500.jpg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 
+{
+  id: "30",
+  name: "STAPLER PIN",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://nakodastore.in/wp-content/uploads/2024/09/Stapler-Pins.jpg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 // {
 //   id: "31",
@@ -1067,9 +1123,9 @@ export const products: Product[] = [
 //   basePrice: 10,
 //   category: "Packing Material",
 //   image: "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
-//   densities: [""],
-//   dimensions: [],
-//   sizes: [''], 
+//   densities: ["10 Density"],
+//   dimensions: [42,78],
+//   sizes: ['100 meter'], 
 //   features: [],
 //   specs: {
 //     "Material": "EPE Foam",
@@ -1081,88 +1137,107 @@ export const products: Product[] = [
 // },
 
 
-// {
-//   id: "32",
-//   name: "REXIN",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
-//   densities: [""],
-//   dimensions: [],
-//   sizes: [''], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "32",
+  name: "REXIN",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://5.imimg.com/data5/US/BM/II/SELLER-22996197/rexine-sofa-fabric-500x500.jpg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-// {
-//   id: "33",
-//   name: "MATTRESS TAPE",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
-//   densities: [""],
-//   dimensions: [],
-//   sizes: [''], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "33",
+  name: "MATTRESS TAPE",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://image.made-in-china.com/202f0j00tflYEThrFoqB/Bedding-Tape-Mattress-Webbing-Tape-Bedding-Material.webp",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 
-// {
-//   id: "34",
-//   name: "ELASTIC NIVAAR ",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
-//   densities: [""],
-//   dimensions: [],
-//   sizes: [''], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "34",
+  name: "ELASTIC NIVAAR ",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://img3.exportersindia.com/product_images/bc-full/2019/6/4571237/elastic-niwar-1561098131-4963510.jpeg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-// {
-//   id: "35",
-//   name: "SUPER SOFT FOAM",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
-//   densities: [""],
-//   dimensions: [],
-//   sizes: [''], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
-  
+{
+  id: "35",
+  name: "SUPER SOFT FOAM Sheet",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://img1.exportersindia.com/product_images/bc-small/dir_100/2984643/super-soft-foam-1528374054-3954756.jpeg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
+
+{
+  id: "35",
+  name: "SUPER SOFT FOAM Roll",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://5.imimg.com/data5/GI/KR/NT/SELLER-96235740/flame-lamination-pu-foam-roll-500x500.jpg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 // new Pillow
 
@@ -1206,7 +1281,7 @@ export const products: Product[] = [
 
 {
   id: '37',
-  name: 'ultra soft Contour Memory Foam Pillow',
+  name: 'Ultra Soft Contour Memory Foam Pillow',
   description: 'High-density coir sheet ideal for mattresses, cushions, packaging, and industrial use.',
   basePrice: 10,
   category: 'Pillow',
@@ -1277,14 +1352,6 @@ export const products: Product[] = [
   },
   metrics: ['mm', 'cm', 'inch', ]
 },
-
-
-
-
-
-
-
-
 
 // new Raw material
 
@@ -1374,11 +1441,30 @@ export const products: Product[] = [
 
 {
   id: '41',
-  name: 'Folding Mattress',
+  name: 'Semi Fowler Mattress',
   description: 'High-quality folding mattress designed for easy storage and transport.',
   basePrice: 10,
   category: 'Hospital Range',
-  image: 'https://m.media-amazon.com/images/I/81pR3H2XpgL._SL1500_.jpg', // Replace with an actual image URL
+  image: 'https://m.media-amazon.com/images/I/51jBvuwVBRL._AC_UF1000,1000_QL80_.jpg', // Replace with an actual image URL
+  densities: ["40"],
+  dimensions: [6],
+  sizes: [],
+  features: ['Portable', 'Durable', 'Easy to store', 'Customizable sizes'],
+  specs: {
+    'Material': 'Foam',
+    'Certification': 'ISO 9001',
+    'Color': 'White'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+{
+  id: '41',
+  name: 'Fowler Bed Mattress',
+  description: 'High-quality folding mattress designed for easy storage and transport.',
+  basePrice: 10,
+  category: 'Hospital Range',
+  image: 'https://5.imimg.com/data5/YR/ET/IH/SELLER-99902182/four-section-mattress-for-fowler-icu-beds-500x500-500x500.jpg', // Replace with an actual image URL
   densities: ["40"],
   dimensions: [6],
   sizes: [],
@@ -1419,7 +1505,26 @@ export const products: Product[] = [
   description: 'High-quality operation theatre mattress designed for comfort and support during surgeries.',
   basePrice: 10,
   category: 'Hospital Range',
-  image: 'https://5.imimg.com/data5/SELLER/Default/2022/7/GB/AQ/OV/14982509/ma4u-product7679-edged-2-scaled-1000x1000.jpg', // Replace with an actual image URL
+  image: 'https://assets.hillrom.com/is/image/hillrom/PST300_flat_top_2-parts_leg-pdp-carousel?$pdpImage$', // Replace with an actual image URL
+  densities: ['40'],
+  dimensions: [60],
+  sizes: [],
+  features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
+  specs: {
+    'Material': 'Foam',
+    'Certification': 'ISO 9001',
+    'Color': 'White'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+{
+  id: '43',
+  name: 'Multiple Folding Mattress',
+  description: 'High-quality operation theatre mattress designed for comfort and support during surgeries.',
+  basePrice: 10,
+  category: 'Hospital Range',
+  image: 'https://lh3.googleusercontent.com/d/1aIBp7H_lLACQ9j-pRFB5yWOFk2Q6e6wv=s220?authuser=0', // Replace with an actual image URL
   densities: ['40'],
   dimensions: [60],
   sizes: [],
@@ -1438,7 +1543,7 @@ export const products: Product[] = [
   description: 'High-quality Bostik adhesive ideal for various packing and bonding applications.',
   basePrice: 10,
   category: 'Mattress Raw Material',
-  image: 'https://drive.google.com/thumbnail?id=1bNaYP16LUGjuDGAt94cxARWclaNoaHAH', // Replace with an actual image URL
+  image: 'https://euro-industry.com/pics/Bostik/bostik-2402-d40.png', // Replace with an actual image URL
   densities: ['50'],
   dimensions: [40],
   sizes: [''],
@@ -1674,7 +1779,7 @@ export const products: Product[] = [
 
 {
   id: '53',
-  name: 'color LD PU Foam',
+  name: 'Colour LD PU Foam',
   description: 'High-quality foam padding material perfect for furniture, packaging, and industrial applications.',
   basePrice: 10,
   category: 'Foam',
@@ -1721,11 +1826,11 @@ export const products: Product[] = [
 // Fabric 
 {
   id: '54',
-  name: ' Contura Knitting Fabric',
+  name: ' Cottura Knitting / Quilting Fabric',
   description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
   basePrice: 10,
   category: 'Quiltings',
-  image: 'https://www.dial4trade.com/uploaded_files/product_images/roto-fabric-for-mattress-u-1180561324259202338.jpg',
+  image: 'https://s.alicdn.com/@sc04/kf/H9e085b7d2ac0491da22f6a203cf47b79F.jpg_350x350.jpg',
   densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
   sizes: {
     "feet": [
@@ -1760,11 +1865,11 @@ export const products: Product[] = [
 
 {
   id: '55',
-  name: ' Cotton Fabric',
+  name: ' Cotton Quilting Fabric',
   description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
   basePrice: 10,
   category: 'Quiltings',
-  image: 'https://www.dial4trade.com/uploaded_files/product_images/roto-fabric-for-mattress-u-1180561324259202338.jpg',
+  image: 'https://m.media-amazon.com/images/I/81z6ZXh3pmL.jpg',
   densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
   sizes: {
     "feet": [
