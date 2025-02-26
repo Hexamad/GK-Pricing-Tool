@@ -44,92 +44,92 @@ export const products: Product[] = [
     metrics: ['mm', 'cm', 'inch', 'feet']
   },
 
-//   {
-//     id: '2',
-//     name: 'HD PU Foam',
-//     description: 'High-density polyurethane foam suitable for premium furniture, bedding, and industrial uses.',
-//     basePrice: 10,
-//     category: 'Foam',
-//     image: 'https://makerbazar.in/cdn/shop/products/high-density-pu-foam-500x500.webp?v=1681727081&width=500',
-//     densities: ['28 density', '32 density', '40 density', '50 density'],
-//     dimensions: [2,3, 4,  5, 6, 7, 8, 9 ,10,12,15,18,19, 20,21, 25, 30,35, 40,45, 50,70, 75,80,85,90,95, 100,125, 150, 200, 250],
-//     sizes: {
-//       "feet": [
-//         '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//       ],
-//      "inches": [
-//   '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//   '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//   '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
-//   '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
-//   '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
-//   '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
-// ],
-//       "cm": [
-//         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['Durable', 'High density', 'Moisture resistant', 'Custom cuttable'],
-//     specs: {
-//       'Material': 'Polyurethane',
-//       'Certification': 'ISO 9001',
-//       'Fire Rating': 'Class B',
-//       'Color': 'White'
-//     },
-//     metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+  {
+    id: '2',
+    name: 'HD PU Foam',
+    description: 'High-density polyurethane foam suitable for premium furniture, bedding, and industrial uses.',
+    basePrice: 10,
+    category: 'Foam',
+    image: 'https://makerbazar.in/cdn/shop/products/high-density-pu-foam-500x500.webp?v=1681727081&width=500',
+    densities: ['28 density', '32 density', '40 density', '50 density'],
+    dimensions: [2,3, 4,  5, 6, 7, 8, 9 ,10,12,15,18,19, 20,21, 25, 30,35, 40,45, 50,70, 75,80,85,90,95, 100,125, 150, 200, 250],
+    sizes: {
+      "feet": [
+        '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+        '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+        '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['Durable', 'High density', 'Moisture resistant', 'Custom cuttable'],
+    specs: {
+      'Material': 'Polyurethane',
+      'Certification': 'ISO 9001',
+      'Fire Rating': 'Class B',
+      'Color': 'White'
+    },
+    metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-//   {
+  {
     
-//       id: '3',
-//       name: 'Super Soft Foam',
-//       description: 'Premium quality super soft foam, ideal for upholstery, mattresses, and industrial use.',
-//       basePrice: 10, // Adjust the price if needed
-//       category: 'Foam',
-//       image: 'https://5.imimg.com/data5/RA/FY/MY-56919196/super-soft-foam-sheet.jpg',
-//       densities: ['24 density', '28 density', '32 density','40 density', '40 HD density'],
-//       dimensions: [2,3, 4,  5, 6, 7, 8, 9 ,10,12,15,18,19, 20,21, 25, 30,35, 40,45, 50,70, 75,80,85,90,95, 100,125, 150, 200, 250],
-//       sizes: {
-//         "feet": [
-//           '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//           '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//           '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//         ],
-//         "inches": [
-//           '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//           '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//           '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//         ],
-//         "cm": [
-//           '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//           '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//           '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//         ],
-//         "mm": [
-//           '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//           '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//           '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//         ]
-//       },
-//       features: ['Super soft', 'Highly durable', 'Moisture resistant', 'Custom cuttable'],
-//       specs: {
-//         'Material': 'Polyurethane',
-//         'Certification': 'ISO 9001',
-//         'Fire Rating': 'Class B',
-//         'Color': 'White'
+      id: '3',
+      name: 'Super Soft Foam',
+      description: 'Premium quality super soft foam, ideal for upholstery, mattresses, and industrial use.',
+      basePrice: 10, // Adjust the price if needed
+      category: 'Foam',
+      image: 'https://5.imimg.com/data5/RA/FY/MY-56919196/super-soft-foam-sheet.jpg',
+      densities: ['24 density', '28 density', '32 density','40 density', '40 HD density'],
+      dimensions: [2,3, 4,  5, 6, 7, 8, 9 ,10,12,15,18,19, 20,21, 25, 30,35, 40,45, 50,70, 75,80,85,90,95, 100,125, 150, 200, 250],
+      sizes: {
+        "feet": [
+          '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+          '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+          '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+        ],
+        "inches": [
+          '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+          '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+          '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+        ],
+        "cm": [
+          '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+          '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+          '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+        ],
+        "mm": [
+          '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+          '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+          '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+        ]
+      },
+      features: ['Super soft', 'Highly durable', 'Moisture resistant', 'Custom cuttable'],
+      specs: {
+        'Material': 'Polyurethane',
+        'Certification': 'ISO 9001',
+        'Fire Rating': 'Class B',
+        'Color': 'White'
       
-//     },
-//     metrics: ['mm', 'cm', 'inch', 'feet']
-//   },
+    },
+    metrics: ['mm', 'cm', 'inch', 'feet']
+  },
 
 
 
