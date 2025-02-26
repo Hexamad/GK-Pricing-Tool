@@ -58,11 +58,14 @@ export const products: Product[] = [
         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
       ],
-      "inches": [
-        '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
       "cm": [
         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
@@ -144,11 +147,14 @@ export const products: Product[] = [
         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
       ],
-      "inches": [
-        '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
       "cm": [
         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
@@ -186,11 +192,14 @@ export const products: Product[] = [
         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
       ],
-      "inches": [
-        '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
       "cm": [
         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
@@ -312,11 +321,14 @@ export const products: Product[] = [
         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
       ],
-      "inches": [
-        '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
       "cm": [
         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
@@ -353,11 +365,14 @@ export const products: Product[] = [
         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
       ],
-      "inches": [
-        '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
       "cm": [
         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
@@ -628,11 +643,14 @@ export const products: Product[] = [
     dimensions: [1], // Dimensions in mm
     sizes: {
     
-      "inches": [
-        '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
       "cm": [
         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
@@ -664,11 +682,14 @@ export const products: Product[] = [
     densities: ['16 Inch * 24 inch' , '17 Inch * 27 inch'],
     dimensions: [1], // Dimensions in mm
     sizes: {
-      "inches": [
-        '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
       "cm": [
         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
@@ -701,11 +722,14 @@ export const products: Product[] = [
     dimensions: [1], // Dimensions in mm
     sizes: {
       
-      "inches": [
-        '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
       "cm": [
         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
@@ -742,11 +766,14 @@ export const products: Product[] = [
         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
       ],
-      "inches": [
-        '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
       "cm": [
         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
@@ -784,11 +811,14 @@ export const products: Product[] = [
         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
       ],
-      "inches": [
-        '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
       "cm": [
         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
@@ -825,11 +855,14 @@ export const products: Product[] = [
         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
       ],
-      "inches": [
-        '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
       "cm": [
         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
@@ -867,11 +900,14 @@ export const products: Product[] = [
         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
       ],
-      "inches": [
-        '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
       "cm": [
         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
@@ -908,11 +944,14 @@ export const products: Product[] = [
         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
       ],
-      "inches": [
-        '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
       "cm": [
         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
