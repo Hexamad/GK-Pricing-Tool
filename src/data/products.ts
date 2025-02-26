@@ -1235,821 +1235,821 @@ export const products: Product[] = [
   metrics: ['mm', 'cm', 'inch', 'feet']
 },
 
-// {
-//   id: "36",
-//   name: "SUPER SOFT FOAM Sheet",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://img1.exportersindia.com/product_images/bc-small/dir_100/2984643/super-soft-foam-1528374054-3954756.jpeg",
-//   densities: ["10 Density"],
-//   dimensions: [42,78],
-//   sizes: ['100 meter'], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "36",
+  name: "SUPER SOFT FOAM Sheet",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://img1.exportersindia.com/product_images/bc-small/dir_100/2984643/super-soft-foam-1528374054-3954756.jpeg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 
-// {
-//   id: "37",
-//   name: "SUPER SOFT FOAM Roll",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/GI/KR/NT/SELLER-96235740/flame-lamination-pu-foam-roll-500x500.jpg",
-//   densities: ["10 Density"],
-//   dimensions: [42,78],
-//   sizes: ['100 meter'], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "37",
+  name: "SUPER SOFT FOAM Roll",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://5.imimg.com/data5/GI/KR/NT/SELLER-96235740/flame-lamination-pu-foam-roll-500x500.jpg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 // new Pillow
 
-// {
-//   id: '38',
-//   name: 'Soft fibre Pillow',
-//   description: 'Soft fibre Pillow',
-//   basePrice: 10,
-//   category: 'Pillow',
-//   image: 'https://static.wixstatic.com/media/dd9c7b_ebbecda3297f4fe7b3bdd0afebabbbfb~mv2.jpg/v1/fill/w_480,h_562,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dd9c7b_ebbecda3297f4fe7b3bdd0afebabbbfb~mv2.jpg', // Replace with an actual coir-related image URL
-//   densities: ['16 inch * 24 inch' , '17 inch * 27 inch'],
-//   dimensions: [10,20], // Dimensions in mm
-//   sizes: {
+{
+  id: '38',
+  name: 'Soft fibre Pillow',
+  description: 'Soft fibre Pillow',
+  basePrice: 10,
+  category: 'Pillow',
+  image: 'https://static.wixstatic.com/media/dd9c7b_ebbecda3297f4fe7b3bdd0afebabbbfb~mv2.jpg/v1/fill/w_480,h_562,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dd9c7b_ebbecda3297f4fe7b3bdd0afebabbbfb~mv2.jpg', // Replace with an actual coir-related image URL
+  densities: ['16 inch * 24 inch' , '17 inch * 27 inch'],
+  dimensions: [10,20], // Dimensions in mm
+  sizes: {
     
-//     "inches": [
-//       '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//       '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//       '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//     ],
-//     "cm": [
-//       '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//       '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//       '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//     ],
-//     "mm": [
-//       '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//       '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//       '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//     ]
-//   },
-//   features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
-//   specs: {
-//     'Material': 'Coir Fiber',
-//     'Certification': 'ISO 9001',
-//     'Fire Rating': 'Class B',
-//     'Color': 'Brown'
-//   },
-//   metrics: ['mm', 'cm', 'inch',]
-// },
+    "inches": [
+      '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+      '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+      '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+    ],
+    "cm": [
+      '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+      '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+      '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+    ],
+    "mm": [
+      '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+      '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+      '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+    ]
+  },
+  features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
+  specs: {
+    'Material': 'Coir Fiber',
+    'Certification': 'ISO 9001',
+    'Fire Rating': 'Class B',
+    'Color': 'Brown'
+  },
+  metrics: ['mm', 'cm', 'inch',]
+},
+
+{
+  id: '39',
+  name: 'Ultra Soft Contour Memory Foam Pillow',
+  description: 'High-density coir sheet ideal for mattresses, cushions, packaging, and industrial use.',
+  basePrice: 10,
+  category: 'Pillow',
+  image: 'https://5.imimg.com/data5/SELLER/Default/2023/4/302931898/EI/YD/WD/42711985/memory-foam-neck-pillow-500x500.png', // Replace with an actual coir-related image URL
+  densities: ['16 Inch * 24 Inch' , '17 Inch * 27 Inch'],
+  dimensions: [10,20], // Dimensions in mm
+  sizes: {
+    
+    "inches": [
+      '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+      '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+      '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+    ],
+    "cm": [
+      '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+      '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+      '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+    ],
+    "mm": [
+      '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+      '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+      '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+    ]
+  },
+  features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
+  specs: {
+    'Material': 'Coir Fiber',
+    'Certification': 'ISO 9001',
+    'Fire Rating': 'Class B',
+    'Color': 'Brown'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+{
+  id: '40',
+  name: 'Natural Latex Contour Pillow',
+  description: 'Latex Contour Pillow',
+  basePrice: 10,
+  category: 'Pillow',
+  image: 'https://ak1.ostkcdn.com/images/products/21155818/Cheer-Collection-Contoured-Latex-Foam-Pillow-with-Washable-Cover-5c2167e5-a64a-4a7f-a8a9-58fad88a7dfd_600.jpg?impolicy=medium', // Replace with an actual coir-related image URL
+  densities: ['16 inch * 24 inch ' , '17 inch * 27 inch'],
+  dimensions: [10], // Dimensions in mm
+  sizes: {
+  
+    "inches": [
+      '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+      '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+      '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+    ],
+    "cm": [
+      '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+      '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+      '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+    ],
+    "mm": [
+      '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+      '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+      '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+    ]
+  },
+  features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
+  specs: {
+    'Material': 'Coir Fiber',
+    'Certification': 'ISO 9001',
+    'Fire Rating': 'Class B',
+    'Color': 'Brown'
+  },
+  metrics: ['mm', 'cm', 'inch', ]
+},
+
+// new Raw material
+
+{
+  id: '41',
+  name: 'Mattress Protector',
+  description: 'High-quality mattress protector designed to keep your mattress clean and protected.',
+  basePrice: 10,
+  category: 'Mattress Raw Material',
+  image: 'https://m.media-amazon.com/images/I/71Dx8PRJmyL.jpg', // Replace with an actual image URL
+  densities: ['Standard'],
+  dimensions: [2, 2.5, 3, 4, 5, 6],
+  sizes: {
+    "feet": [
+      '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+      '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+      '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+    ],
+    "inches": [
+      '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+      '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+      '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+    ],
+    "cm": [
+      '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+      '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+      '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+    ],
+    "mm": [
+      '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+      '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+      '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+    ]
+  },
+  features: ['Waterproof', 'Durable', 'Easy to clean', 'Customizable sizes'],
+  specs: {
+    'Material': 'Polyester',
+    'Certification': 'ISO 9001',
+    'Color': 'White'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+
+{
+  id: '42',
+  name: 'Mattress Comforter',
+  description: 'High-quality mattress comforter designed to provide extra comfort and protection.',
+  basePrice: 10,
+  category: 'Mattress Raw Material',
+  image: 'https://images-cdn.ubuy.co.in/64e7353f138a507500087278-mellow-4-inch-5-zone-memory-foam.jpg', // Replace with an actual image URL
+  densities: ['300GSM', '400GSM', '500GSM'],
+  dimensions: [2, 2.5, 3, 4, 5, 6],
+  sizes: {
+    "feet": [
+      '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+      '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+      '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+    ],
+    "inches": [
+      '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+      '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+      '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+    ],
+    "cm": [
+      '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+      '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+      '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+    ],
+    "mm": [
+      '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+      '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+      '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+    ]
+  },
+  features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
+  specs: {
+    'Material': 'Polyester',
+    'Certification': 'ISO 9001',
+    'Color': 'White'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+{
+  id: '43',
+  name: 'Semi Fowler Mattress',
+  description: 'High-quality folding mattress designed for easy storage and transport.',
+  basePrice: 10,
+  category: 'Hospital Range',
+  image: 'https://m.media-amazon.com/images/I/51jBvuwVBRL._AC_UF1000,1000_QL80_.jpg', // Replace with an actual image URL
+  densities: ["40"],
+  dimensions: [6],
+  sizes: {
+    "feet": [
+    '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+    '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+    '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+  ],
+  "inches": [
+    '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+    '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+    '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+  ],
+  "cm": [
+    '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+    '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+    '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+  ],
+  "mm": [
+    '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+    '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+    '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+  ],
+},
+  features: ['Portable', 'Durable', 'Easy to store', 'Customizable sizes'],
+  specs: {
+    'Material': 'Foam',
+    'Certification': 'ISO 9001',
+    'Color': 'White'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+{
+  id: '44',
+  name: 'Fowler Bed Mattress',
+  description: 'High-quality folding mattress designed for easy storage and transport.',
+  basePrice: 10,
+  category: 'Hospital Range',
+  image: 'https://5.imimg.com/data5/YR/ET/IH/SELLER-99902182/four-section-mattress-for-fowler-icu-beds-500x500-500x500.jpg', // Replace with an actual image URL
+  densities: ["40"],
+  dimensions: [6],
+  sizes: {
+    "feet": [
+    '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+    '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+    '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+  ],
+  "inches": [
+    '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+    '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+    '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+  ],
+  "cm": [
+    '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+    '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+    '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+  ],
+  "mm": [
+    '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+    '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+    '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+  ],
+},
+  features: ['Portable', 'Durable', 'Easy to store', 'Customizable sizes'],
+  specs: {
+    'Material': 'Foam',
+    'Certification': 'ISO 9001',
+    'Color': 'White'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+
+{
+  id: '45',
+  name: 'Hospital Mattress',
+  description: 'High-quality hospital mattress designed for comfort and support in medical settings.',
+  basePrice: 10,
+  category: 'Hospital Range',
+  image: 'https://aerocommattress.com/wp-content/uploads/2023/10/NO-FOLD-1.jpg', // Replace with an actual image URL
+  densities: ['40'],
+  dimensions: [60],
+  sizes: {
+    "feet": [
+    '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+    '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+    '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+  ],
+  "inches": [
+    '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+    '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+    '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+  ],
+  "cm": [
+    '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+    '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+    '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+  ],
+  "mm": [
+    '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+    '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+    '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+  ],
+},
+  features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
+  specs: {
+    'Material': 'Foam',
+    'Certification': 'ISO 9001',
+    'Color': 'White'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+{
+  id: '46',
+  name: 'Operation Theatre Mattress',
+  description: 'High-quality operation theatre mattress designed for comfort and support during surgeries.',
+  basePrice: 10,
+  category: 'Hospital Range',
+  image: 'https://assets.hillrom.com/is/image/hillrom/PST300_flat_top_2-parts_leg-pdp-carousel?$pdpImage$', // Replace with an actual image URL
+  densities: ['40'],
+  dimensions: [60],
+  sizes: {
+    "feet": [
+    '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+    '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+    '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+  ],
+  "inches": [
+    '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+    '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+    '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+  ],
+  "cm": [
+    '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+    '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+    '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+  ],
+  "mm": [
+    '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+    '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+    '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+  ],
+},
+  features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
+  specs: {
+    'Material': 'Foam',
+    'Certification': 'ISO 9001',
+    'Color': 'White'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+{
+  id: '47',
+  name: 'Multiple Folding Mattress',
+  description: 'High-quality operation theatre mattress designed for comfort and support during surgeries.',
+  basePrice: 10,
+  category: 'Hospital Range',
+  image: 'https://lh3.googleusercontent.com/d/1aIBp7H_lLACQ9j-pRFB5yWOFk2Q6e6wv=s220?authuser=0', // Replace with an actual image URL
+  densities: ['40'],
+  dimensions: [60],
+  sizes: {
+    "feet": [
+    '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+    '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+    '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+  ],
+  "inches": [
+    '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+    '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+    '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+  ],
+  "cm": [
+    '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+    '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+    '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+  ],
+  "mm": [
+    '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+    '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+    '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+  ],
+},
+  features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
+  specs: {
+    'Material': 'Foam',
+    'Certification': 'ISO 9001',
+    'Color': 'White'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+{
+  id: '48',
+  name: 'Bostik Adhesive',
+  description: 'High-quality Bostik adhesive ideal for various packing and bonding applications.',
+  basePrice: 10,
+  category: 'Mattress Raw Material',
+  image: 'https://euro-industry.com/pics/Bostik/bostik-2402-d40.png', // Replace with an actual image URL
+  densities: ['50'],
+  dimensions: [40],
+  sizes: {
+    "feet": [
+    '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+    '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+    '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+  ],
+  "inches": [
+    '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+    '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+    '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+  ],
+  "cm": [
+    '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+    '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+    '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+  ],
+  "mm": [
+    '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+    '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+    '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+  ],
+},
+  features: ['Strong bond', 'Durable', 'Easy to apply'],
+  specs: {
+    'Material': 'Adhesive',
+    'Certification': 'ISO 9001',
+    'Color': 'Clear'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 // {
-//   id: '39',
-//   name: 'Ultra Soft Contour Memory Foam Pillow',
-//   description: 'High-density coir sheet ideal for mattresses, cushions, packaging, and industrial use.',
+//   id: '49',
+//   name: 'Felt Roll',
+//   description: 'High-quality felt roll with standard GSM, ideal for various packing and protective applications.',
 //   basePrice: 10,
-//   category: 'Pillow',
-//   image: 'https://5.imimg.com/data5/SELLER/Default/2023/4/302931898/EI/YD/WD/42711985/memory-foam-neck-pillow-500x500.png', // Replace with an actual coir-related image URL
-//   densities: ['16 Inch * 24 Inch' , '17 Inch * 27 Inch'],
-//   dimensions: [10,20], // Dimensions in mm
-//   sizes: {
-    
-//     "inches": [
-//       '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//       '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//       '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//     ],
-//     "cm": [
-//       '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//       '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//       '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//     ],
-//     "mm": [
-//       '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//       '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//       '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//     ]
-//   },
-//   features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
+//   category: 'Mattress Raw Material',
+//   image: 'https://4.imimg.com/data4/AK/HF/MY-30303039/felt-rolls-500x500.jpg', // Replace with an actual image URL
+//   densities: ['Standard GSM'],
+//   dimensions: [60],
+//   sizes: ['As per order'],
+//   features: ['Durable', 'Protective', 'Customizable sizes'],
 //   specs: {
-//     'Material': 'Coir Fiber',
+//     'Material': 'Felt',
 //     'Certification': 'ISO 9001',
-//     'Fire Rating': 'Class B',
-//     'Color': 'Brown'
+//     'Color': 'Gray'
+//   },
+//   metrics: ['mm', 'cm', 'inch', 'feet']
+// },
+
+
+{
+  id: '50',
+  name: 'Bonnel Spring unit',
+  description: 'High-quality bonnel spring suitable for mattresses and other bedding applications.',
+  basePrice: 10,
+  category: 'Mattress Raw Material',
+  image: 'https://5.imimg.com/data5/SELLER/Default/2023/10/356752699/FY/LU/TT/16330860/bonnell-spring-unit.jpg', // Replace with an actual image URL
+  densities: ['High Quality Grade'],
+  dimensions: [75, 100, 110, 125,150], // Dimensions in mm thickness
+  sizes: {
+    "feet": [
+      '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+      '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+      '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+    ],
+    "inches": [
+      '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+      '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+      '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+    ],
+    "cm": [
+      '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+      '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+      '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+    ],
+    "mm": [
+      '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+      '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+      '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+    ]
+  },
+  features: ['Durable', 'High-quality', 'Supportive', 'Customizable sizes'],
+  specs: {
+    'Material': 'Steel',
+    'Certification': 'ISO 9001',
+    'Color': 'Silver'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+{
+  id: '51',
+  name: 'Pocket Spring',
+  description: 'High-quality pocket spring suitable for mattresses and other bedding applications.',
+  basePrice: 10,
+  category: 'Mattress Raw Material',
+  image: 'https://5.imimg.com/data5/CN/FI/MY-11071994/pocket-spring-mattress-unit-500x500.jpg', // Replace with an actual image URL
+  densities: ['40'],
+  dimensions: [75, 100, 150, 200], // Dimensions in mm
+  sizes: {
+    "feet": [
+      '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+      '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+      '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+    ],
+    "inches": [
+      '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+      '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+      '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+    ],
+    "cm": [
+      '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+      '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+      '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+    ],
+    "mm": [
+      '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+      '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+      '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+    ]
+  },
+  features: ['Durable', 'High-quality', 'Supportive', 'Customizable sizes'],
+  specs: {
+    'Material': 'Steel',
+    'Certification': 'ISO 9001',
+    'Color': 'Silver'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+
+// {
+//   id: '52',
+//   name: 'Low Quality Mattress Piping Lace',
+//   description: 'High-quality mattress piping lace for enhancing the durability and appearance of mattresses.',
+//   basePrice: 10,
+//   category: 'Mattress Raw Material',
+//   image: 'https://images.meesho.com/images/products/420275167/oc2d3_512.webp', // Replace with an actual image URL
+//   densities: ['600 GM'],
+//   dimensions: [45], // Dimensions in mm
+//   sizes: ['100 meter'],
+//   features: ['Durable', 'High-quality', 'Enhances appearance'],
+//   specs: {
+//     'Material': 'Lace',
+//     'Certification': 'ISO 9001',
+//     'Color': 'White'
 //   },
 //   metrics: ['mm', 'cm', 'inch', 'feet']
 // },
 
 // {
-//   id: '40',
-//   name: 'Natural Latex Contour Pillow',
-//   description: 'Latex Contour Pillow',
-//   basePrice: 10,
-//   category: 'Pillow',
-//   image: 'https://ak1.ostkcdn.com/images/products/21155818/Cheer-Collection-Contoured-Latex-Foam-Pillow-with-Washable-Cover-5c2167e5-a64a-4a7f-a8a9-58fad88a7dfd_600.jpg?impolicy=medium', // Replace with an actual coir-related image URL
-//   densities: ['16 inch * 24 inch ' , '17 inch * 27 inch'],
-//   dimensions: [10], // Dimensions in mm
-//   sizes: {
-  
-//     "inches": [
-//       '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//       '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//       '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//     ],
-//     "cm": [
-//       '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//       '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//       '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//     ],
-//     "mm": [
-//       '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//       '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//       '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//     ]
-//   },
-//   features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
-//   specs: {
-//     'Material': 'Coir Fiber',
-//     'Certification': 'ISO 9001',
-//     'Fire Rating': 'Class B',
-//     'Color': 'Brown'
-//   },
-//   metrics: ['mm', 'cm', 'inch', ]
-// },
-
-// // new Raw material
-
-// {
-//   id: '41',
-//   name: 'Mattress Protector',
-//   description: 'High-quality mattress protector designed to keep your mattress clean and protected.',
+//   id: '53',
+//   name: 'High Quality Mattress Piping Lace',
+//   description: 'High-quality mattress piping lace for enhancing the durability and appearance of mattresses.',
 //   basePrice: 10,
 //   category: 'Mattress Raw Material',
-//   image: 'https://m.media-amazon.com/images/I/71Dx8PRJmyL.jpg', // Replace with an actual image URL
+//   image: 'https://5.imimg.com/data5/ANDROID/Default/2023/8/339519844/BA/ZT/WZ/126633280/product-jpeg-1000x1000.jpg', // Replace with an actual image URL
+//   densities: ['800 GM'],
+//   dimensions: [45], // Dimensions in mm
+//   sizes: ['50 meter'],
+//   features: ['Durable', 'High-quality', 'Enhances appearance'],
+//   specs: {
+//     'Material': 'Lace',
+//     'Certification': 'ISO 9001',
+//     'Color': 'White'
+//   },
+//   metrics: ['mm', 'cm', 'inch', 'feet']
+// },
+
+
+
+// {
+//   id: '54',
+//   name: 'Jhatpat Sofa',
+//   description: 'High-quality Jhatpat Sofa designed for quick setup and comfort.',
+//   basePrice: 100,
+//   category: 'Mattress Raw Material',
+//   image: 'https://m.media-amazon.com/images/I/61Q1kUn5QYL._AC_UF1000,1000_QL80_.jpg', // Replace with an actual image URL
 //   densities: ['Standard'],
-//   dimensions: [2, 2.5, 3, 4, 5, 6],
-//   sizes: {
-//     "feet": [
-//       '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//       '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//       '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//     ],
-//     "inches": [
-//       '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//       '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//       '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//     ],
-//     "cm": [
-//       '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//       '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//       '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//     ],
-//     "mm": [
-//       '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//       '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//       '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//     ]
-//   },
-//   features: ['Waterproof', 'Durable', 'Easy to clean', 'Customizable sizes'],
+//   dimensions: [200, 100, 90], // Example dimensions in cm (length, width, height)
+//   sizes: ['2-seater', '3-seater', '4-seater'],
+//   features: ['Quick setup', 'Comfortable', 'Durable', 'Stylish'],
 //   specs: {
-//     'Material': 'Polyester',
+//     'Material': 'Fabric and Foam',
 //     'Certification': 'ISO 9001',
-//     'Color': 'White'
+//     'Color': 'Various'
 //   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
+//   metrics: ['cm', 'inch']
 // },
 
-
 // {
-//   id: '42',
-//   name: 'Mattress Comforter',
-//   description: 'High-quality mattress comforter designed to provide extra comfort and protection.',
-//   basePrice: 10,
+//   id: '55',
+//   name: 'Sofa Back Rest',
+//   description: 'High-quality Sofa Back Rest designed for additional comfort and support.',
+//   basePrice: 50,
 //   category: 'Mattress Raw Material',
-//   image: 'https://images-cdn.ubuy.co.in/64e7353f138a507500087278-mellow-4-inch-5-zone-memory-foam.jpg', // Replace with an actual image URL
-//   densities: ['300GSM', '400GSM', '500GSM'],
-//   dimensions: [2, 2.5, 3, 4, 5, 6],
-//   sizes: {
-//     "feet": [
-//       '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//       '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//       '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//     ],
-//     "inches": [
-//       '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//       '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//       '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//     ],
-//     "cm": [
-//       '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//       '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//       '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//     ],
-//     "mm": [
-//       '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//       '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//       '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//     ]
-//   },
-//   features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
+//   image: 'https://lh3.googleusercontent.com/d/1ckUnKYDKZn7jc7rDXmWookH7UzdkmYg0=s220?authuser=0', // Replace with an actual image URL
+//   densities: ['100 mm x 175mm' ,'175 mm x 250mm  '],
+//   dimensions: [60, 40, 20], // Example dimensions in cm (length, width, height)
+//   sizes: ['height 15 inch x width 24 inch'],   
+//   features: ['Comfortable', 'Supportive', 'Durable', 'Easy to attach'],
 //   specs: {
-//     'Material': 'Polyester',
+//     'Material': 'Foam and Fabric',
 //     'Certification': 'ISO 9001',
-//     'Color': 'White'
+//     'Color': 'Various'
 //   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
+//   metrics: ['cm', 'inch']
 // },
 
-// {
-//   id: '43',
-//   name: 'Semi Fowler Mattress',
-//   description: 'High-quality folding mattress designed for easy storage and transport.',
-//   basePrice: 10,
-//   category: 'Hospital Range',
-//   image: 'https://m.media-amazon.com/images/I/51jBvuwVBRL._AC_UF1000,1000_QL80_.jpg', // Replace with an actual image URL
-//   densities: ["40"],
-//   dimensions: [6],
-//   sizes: {
-//     "feet": [
-//     '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//     '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//     '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//   ],
-//   "inches": [
-//     '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//     '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//     '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//   ],
-//   "cm": [
-//     '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//     '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//     '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//   ],
-//   "mm": [
-//     '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//     '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//     '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//   ],
-// },
-//   features: ['Portable', 'Durable', 'Easy to store', 'Customizable sizes'],
-//   specs: {
-//     'Material': 'Foam',
-//     'Certification': 'ISO 9001',
-//     'Color': 'White'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+// pillow
 
-// {
-//   id: '44',
-//   name: 'Fowler Bed Mattress',
-//   description: 'High-quality folding mattress designed for easy storage and transport.',
-//   basePrice: 10,
-//   category: 'Hospital Range',
-//   image: 'https://5.imimg.com/data5/YR/ET/IH/SELLER-99902182/four-section-mattress-for-fowler-icu-beds-500x500-500x500.jpg', // Replace with an actual image URL
-//   densities: ["40"],
-//   dimensions: [6],
-//   sizes: {
-//     "feet": [
-//     '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//     '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//     '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//   ],
-//   "inches": [
-//     '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//     '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//     '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//   ],
-//   "cm": [
-//     '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//     '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//     '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//   ],
-//   "mm": [
-//     '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//     '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//     '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//   ],
-// },
-//   features: ['Portable', 'Durable', 'Easy to store', 'Customizable sizes'],
-//   specs: {
-//     'Material': 'Foam',
-//     'Certification': 'ISO 9001',
-//     'Color': 'White'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
-
-
-// {
-//   id: '45',
-//   name: 'Hospital Mattress',
-//   description: 'High-quality hospital mattress designed for comfort and support in medical settings.',
-//   basePrice: 10,
-//   category: 'Hospital Range',
-//   image: 'https://aerocommattress.com/wp-content/uploads/2023/10/NO-FOLD-1.jpg', // Replace with an actual image URL
-//   densities: ['40'],
-//   dimensions: [60],
-//   sizes: {
-//     "feet": [
-//     '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//     '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//     '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//   ],
-//   "inches": [
-//     '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//     '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//     '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//   ],
-//   "cm": [
-//     '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//     '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//     '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//   ],
-//   "mm": [
-//     '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//     '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//     '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//   ],
-// },
-//   features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
-//   specs: {
-//     'Material': 'Foam',
-//     'Certification': 'ISO 9001',
-//     'Color': 'White'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
-
-// {
-//   id: '46',
-//   name: 'Operation Theatre Mattress',
-//   description: 'High-quality operation theatre mattress designed for comfort and support during surgeries.',
-//   basePrice: 10,
-//   category: 'Hospital Range',
-//   image: 'https://assets.hillrom.com/is/image/hillrom/PST300_flat_top_2-parts_leg-pdp-carousel?$pdpImage$', // Replace with an actual image URL
-//   densities: ['40'],
-//   dimensions: [60],
-//   sizes: {
-//     "feet": [
-//     '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//     '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//     '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//   ],
-//   "inches": [
-//     '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//     '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//     '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//   ],
-//   "cm": [
-//     '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//     '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//     '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//   ],
-//   "mm": [
-//     '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//     '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//     '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//   ],
-// },
-//   features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
-//   specs: {
-//     'Material': 'Foam',
-//     'Certification': 'ISO 9001',
-//     'Color': 'White'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
-
-// {
-//   id: '47',
-//   name: 'Multiple Folding Mattress',
-//   description: 'High-quality operation theatre mattress designed for comfort and support during surgeries.',
-//   basePrice: 10,
-//   category: 'Hospital Range',
-//   image: 'https://lh3.googleusercontent.com/d/1aIBp7H_lLACQ9j-pRFB5yWOFk2Q6e6wv=s220?authuser=0', // Replace with an actual image URL
-//   densities: ['40'],
-//   dimensions: [60],
-//   sizes: {
-//     "feet": [
-//     '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//     '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//     '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//   ],
-//   "inches": [
-//     '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//     '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//     '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//   ],
-//   "cm": [
-//     '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//     '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//     '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//   ],
-//   "mm": [
-//     '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//     '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//     '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//   ],
-// },
-//   features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
-//   specs: {
-//     'Material': 'Foam',
-//     'Certification': 'ISO 9001',
-//     'Color': 'White'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
-
-// {
-//   id: '48',
-//   name: 'Bostik Adhesive',
-//   description: 'High-quality Bostik adhesive ideal for various packing and bonding applications.',
-//   basePrice: 10,
-//   category: 'Mattress Raw Material',
-//   image: 'https://euro-industry.com/pics/Bostik/bostik-2402-d40.png', // Replace with an actual image URL
-//   densities: ['50'],
-//   dimensions: [40],
-//   sizes: {
-//     "feet": [
-//     '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//     '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//     '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//   ],
-//   "inches": [
-//     '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//     '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//     '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//   ],
-//   "cm": [
-//     '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//     '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//     '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//   ],
-//   "mm": [
-//     '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//     '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//     '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//   ],
-// },
-//   features: ['Strong bond', 'Durable', 'Easy to apply'],
-//   specs: {
-//     'Material': 'Adhesive',
-//     'Certification': 'ISO 9001',
-//     'Color': 'Clear'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
-
-// // {
-// //   id: '49',
-// //   name: 'Felt Roll',
-// //   description: 'High-quality felt roll with standard GSM, ideal for various packing and protective applications.',
-// //   basePrice: 10,
-// //   category: 'Mattress Raw Material',
-// //   image: 'https://4.imimg.com/data4/AK/HF/MY-30303039/felt-rolls-500x500.jpg', // Replace with an actual image URL
-// //   densities: ['Standard GSM'],
-// //   dimensions: [60],
-// //   sizes: ['As per order'],
-// //   features: ['Durable', 'Protective', 'Customizable sizes'],
-// //   specs: {
-// //     'Material': 'Felt',
-// //     'Certification': 'ISO 9001',
-// //     'Color': 'Gray'
-// //   },
-// //   metrics: ['mm', 'cm', 'inch', 'feet']
-// // },
-
-
-// {
-//   id: '50',
-//   name: 'Bonnel Spring unit',
-//   description: 'High-quality bonnel spring suitable for mattresses and other bedding applications.',
-//   basePrice: 10,
-//   category: 'Mattress Raw Material',
-//   image: 'https://5.imimg.com/data5/SELLER/Default/2023/10/356752699/FY/LU/TT/16330860/bonnell-spring-unit.jpg', // Replace with an actual image URL
-//   densities: ['High Quality Grade'],
-//   dimensions: [75, 100, 110, 125,150], // Dimensions in mm thickness
-//   sizes: {
-//     "feet": [
-//       '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//       '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//       '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//     ],
-//     "inches": [
-//       '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//       '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//       '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//     ],
-//     "cm": [
-//       '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//       '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//       '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//     ],
-//     "mm": [
-//       '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//       '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//       '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//     ]
-//   },
-//   features: ['Durable', 'High-quality', 'Supportive', 'Customizable sizes'],
-//   specs: {
-//     'Material': 'Steel',
-//     'Certification': 'ISO 9001',
-//     'Color': 'Silver'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
-
-// {
-//   id: '51',
-//   name: 'Pocket Spring',
-//   description: 'High-quality pocket spring suitable for mattresses and other bedding applications.',
-//   basePrice: 10,
-//   category: 'Mattress Raw Material',
-//   image: 'https://5.imimg.com/data5/CN/FI/MY-11071994/pocket-spring-mattress-unit-500x500.jpg', // Replace with an actual image URL
-//   densities: ['40'],
-//   dimensions: [75, 100, 150, 200], // Dimensions in mm
-//   sizes: {
-//     "feet": [
-//       '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//       '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//       '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//     ],
-//     "inches": [
-//       '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//       '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//       '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//     ],
-//     "cm": [
-//       '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//       '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//       '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//     ],
-//     "mm": [
-//       '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//       '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//       '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//     ]
-//   },
-//   features: ['Durable', 'High-quality', 'Supportive', 'Customizable sizes'],
-//   specs: {
-//     'Material': 'Steel',
-//     'Certification': 'ISO 9001',
-//     'Color': 'Silver'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
-
-// // {
-// //   id: '52',
-// //   name: 'Low Quality Mattress Piping Lace',
-// //   description: 'High-quality mattress piping lace for enhancing the durability and appearance of mattresses.',
-// //   basePrice: 10,
-// //   category: 'Mattress Raw Material',
-// //   image: 'https://images.meesho.com/images/products/420275167/oc2d3_512.webp', // Replace with an actual image URL
-// //   densities: ['600 GM'],
-// //   dimensions: [45], // Dimensions in mm
-// //   sizes: ['100 meter'],
-// //   features: ['Durable', 'High-quality', 'Enhances appearance'],
-// //   specs: {
-// //     'Material': 'Lace',
-// //     'Certification': 'ISO 9001',
-// //     'Color': 'White'
-// //   },
-// //   metrics: ['mm', 'cm', 'inch', 'feet']
-// // },
-
-// // {
-// //   id: '53',
-// //   name: 'High Quality Mattress Piping Lace',
-// //   description: 'High-quality mattress piping lace for enhancing the durability and appearance of mattresses.',
-// //   basePrice: 10,
-// //   category: 'Mattress Raw Material',
-// //   image: 'https://5.imimg.com/data5/ANDROID/Default/2023/8/339519844/BA/ZT/WZ/126633280/product-jpeg-1000x1000.jpg', // Replace with an actual image URL
-// //   densities: ['800 GM'],
-// //   dimensions: [45], // Dimensions in mm
-// //   sizes: ['50 meter'],
-// //   features: ['Durable', 'High-quality', 'Enhances appearance'],
-// //   specs: {
-// //     'Material': 'Lace',
-// //     'Certification': 'ISO 9001',
-// //     'Color': 'White'
-// //   },
-// //   metrics: ['mm', 'cm', 'inch', 'feet']
-// // },
-
-
-
-// // {
-// //   id: '54',
-// //   name: 'Jhatpat Sofa',
-// //   description: 'High-quality Jhatpat Sofa designed for quick setup and comfort.',
-// //   basePrice: 100,
-// //   category: 'Mattress Raw Material',
-// //   image: 'https://m.media-amazon.com/images/I/61Q1kUn5QYL._AC_UF1000,1000_QL80_.jpg', // Replace with an actual image URL
-// //   densities: ['Standard'],
-// //   dimensions: [200, 100, 90], // Example dimensions in cm (length, width, height)
-// //   sizes: ['2-seater', '3-seater', '4-seater'],
-// //   features: ['Quick setup', 'Comfortable', 'Durable', 'Stylish'],
-// //   specs: {
-// //     'Material': 'Fabric and Foam',
-// //     'Certification': 'ISO 9001',
-// //     'Color': 'Various'
-// //   },
-// //   metrics: ['cm', 'inch']
-// // },
-
-// // {
-// //   id: '55',
-// //   name: 'Sofa Back Rest',
-// //   description: 'High-quality Sofa Back Rest designed for additional comfort and support.',
-// //   basePrice: 50,
-// //   category: 'Mattress Raw Material',
-// //   image: 'https://lh3.googleusercontent.com/d/1ckUnKYDKZn7jc7rDXmWookH7UzdkmYg0=s220?authuser=0', // Replace with an actual image URL
-// //   densities: ['100 mm x 175mm' ,'175 mm x 250mm  '],
-// //   dimensions: [60, 40, 20], // Example dimensions in cm (length, width, height)
-// //   sizes: ['height 15 inch x width 24 inch'],   
-// //   features: ['Comfortable', 'Supportive', 'Durable', 'Easy to attach'],
-// //   specs: {
-// //     'Material': 'Foam and Fabric',
-// //     'Certification': 'ISO 9001',
-// //     'Color': 'Various'
-// //   },
-// //   metrics: ['cm', 'inch']
-// // },
-
-// // pillow
-
-// {
-//   id: '56',
-//   name: 'Ultra Soft Memory Foam Pillow',
-//   description: 'Latex Contour Pillow',
-//   basePrice: 10,
-//   category: 'Pillow',
-//   image: 'https://m.media-amazon.com/images/I/51F0ks7ro1L.jpg', // Replace with an actual coir-related image URL
-//   densities: ['16 inch * 24 inch ' , '17 inch * 27 inch'],
-//   dimensions: [1,5,20], // Dimensions in mm
-//   sizes: {
+{
+  id: '56',
+  name: 'Ultra Soft Memory Foam Pillow',
+  description: 'Latex Contour Pillow',
+  basePrice: 10,
+  category: 'Pillow',
+  image: 'https://m.media-amazon.com/images/I/51F0ks7ro1L.jpg', // Replace with an actual coir-related image URL
+  densities: ['16 inch * 24 inch ' , '17 inch * 27 inch'],
+  dimensions: [1,5,20], // Dimensions in mm
+  sizes: {
   
-//     "inches": [
-//       '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//       '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//       '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//     ],
-//     "cm": [
-//       '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//       '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//       '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//     ],
-//     "mm": [
-//       '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//       '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//       '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//     ]
-//   },
-//   features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
-//   specs: {
-//     'Material': 'Coir Fiber',
-//     'Certification': 'ISO 9001',
-//     'Fire Rating': 'Class B',
-//     'Color': 'Brown'
-//   },
-//   metrics: ['mm', 'cm', 'inch', ]
-// },
+    "inches": [
+      '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+      '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+      '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+    ],
+    "cm": [
+      '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+      '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+      '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+    ],
+    "mm": [
+      '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+      '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+      '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+    ]
+  },
+  features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
+  specs: {
+    'Material': 'Coir Fiber',
+    'Certification': 'ISO 9001',
+    'Fire Rating': 'Class B',
+    'Color': 'Brown'
+  },
+  metrics: ['mm', 'cm', 'inch', ]
+},
 
-// {
-//   id: '57',
-//   name: 'Colour LD PU Foam',
-//   description: 'High-quality foam padding material perfect for furniture, packaging, and industrial applications.',
-//   basePrice: 10,
-//   category: 'Foam',
-//   image: 'https://5.imimg.com/data5/SELLER/Default/2023/12/369825749/XO/ZE/HV/1486494/pu-foam-sheets-500x500.png',
-//   densities: ['18 density','23 density'],
-//   dimensions: [2,3,4,5,6,7,8,9,10,12,15,18,19,20,21,25,30,35,40,45,50,70,75,80,85,90,95,100,125,150,200,250],
+{
+  id: '57',
+  name: 'Colour LD PU Foam',
+  description: 'High-quality foam padding material perfect for furniture, packaging, and industrial applications.',
+  basePrice: 10,
+  category: 'Foam',
+  image: 'https://5.imimg.com/data5/SELLER/Default/2023/12/369825749/XO/ZE/HV/1486494/pu-foam-sheets-500x500.png',
+  densities: ['18 density','23 density'],
+  dimensions: [2,3,4,5,6,7,8,9,10,12,15,18,19,20,21,25,30,35,40,45,50,70,75,80,85,90,95,100,125,150,200,250],
   
-//     sizes: {
-//       "feet": [
-//         '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet', 
-//         '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//       ],
-//       "inches": [
-//         '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//         '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//         '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//       ],
-//       "cm": [
-//        '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
+    sizes: {
+      "feet": [
+        '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet', 
+        '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+      ],
+      "inches": [
+        '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+        '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+        '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+      ],
+      "cm": [
+       '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
   
   
-//   features: ['Durable', 'Fire resistant', 'Moisture resistant', 'Custom cuttable'],
-//   specs: {
-//     'Material': 'Polyurethane',
-//     'Certification': 'ISO 9001',
-//     'Fire Rating': 'Class B',
-//     'Color': 'White'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+  features: ['Durable', 'Fire resistant', 'Moisture resistant', 'Custom cuttable'],
+  specs: {
+    'Material': 'Polyurethane',
+    'Certification': 'ISO 9001',
+    'Fire Rating': 'Class B',
+    'Color': 'White'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-// // Fabric 
-// {
-//   id: '58',
-//   name: ' Cottura Knitting / Quilting Fabric',
-//   description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
-//   basePrice: 10,
-//   category: 'Quiltings',
-//   image: 'https://s.alicdn.com/@sc04/kf/H9e085b7d2ac0491da22f6a203cf47b79F.jpg_350x350.jpg',
-//   densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
-//   sizes: {
-//     "feet": [
-//       '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//       '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//       '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//     ],
-//     "inches": [
-//       '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//       '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//       '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//     ],
-//     "cm": [
-//       '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//       '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//       '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//     ],
-//     "mm": [
-//       '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//       '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//       '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//     ]
-//   },
-//   features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
-//   specs: {
-//     'Material': 'Polyester',
-//     'Certification': 'ISO 14001',
-//     'Color': 'White'
-//   },metrics: ['mm', 'cm', 'inch', 'feet'],
-//   dimensions: [5,7,10,12,15,20,25],
-// },
+// Fabric 
+{
+  id: '58',
+  name: ' Cottura Knitting / Quilting Fabric',
+  description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
+  basePrice: 10,
+  category: 'Quiltings',
+  image: 'https://s.alicdn.com/@sc04/kf/H9e085b7d2ac0491da22f6a203cf47b79F.jpg_350x350.jpg',
+  densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
+  sizes: {
+    "feet": [
+      '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+      '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+      '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+    ],
+    "inches": [
+      '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+      '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+      '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+    ],
+    "cm": [
+      '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+      '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+      '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+    ],
+    "mm": [
+      '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+      '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+      '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+    ]
+  },
+  features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
+  specs: {
+    'Material': 'Polyester',
+    'Certification': 'ISO 14001',
+    'Color': 'White'
+  },metrics: ['mm', 'cm', 'inch', 'feet'],
+  dimensions: [5,7,10,12,15,20,25],
+},
 
-// {
-//   id: '59',
-//   name: ' Cotton Quilting Fabric',
-//   description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
-//   basePrice: 10,
-//   category: 'Quiltings',
-//   image: 'https://m.media-amazon.com/images/I/81z6ZXh3pmL.jpg',
-//   densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
-//   sizes: {
-//     "feet": [
-//       '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//       '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//       '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//     ],
-//     "inches": [
-//       '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//       '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//       '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//     ],
-//     "cm": [
-//       '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//       '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//       '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//     ],
-//     "mm": [
-//       '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//       '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//       '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//     ]
-//   },
-//   features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
-//   specs: {
-//     'Material': 'Polyester',
-//     'Certification': 'ISO 14001',
-//     'Color': 'White'
-//   },metrics: ['mm', 'cm', 'inch', 'feet'],
-//   dimensions: [5,7,10,12,15,20,25],
-// },
+{
+  id: '59',
+  name: ' Cotton Quilting Fabric',
+  description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
+  basePrice: 10,
+  category: 'Quiltings',
+  image: 'https://m.media-amazon.com/images/I/81z6ZXh3pmL.jpg',
+  densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
+  sizes: {
+    "feet": [
+      '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+      '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+      '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+    ],
+    "inches": [
+      '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+      '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+      '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+    ],
+    "cm": [
+      '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+      '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+      '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+    ],
+    "mm": [
+      '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+      '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+      '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+    ]
+  },
+  features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
+  specs: {
+    'Material': 'Polyester',
+    'Certification': 'ISO 14001',
+    'Color': 'White'
+  },metrics: ['mm', 'cm', 'inch', 'feet'],
+  dimensions: [5,7,10,12,15,20,25],
+},
 
 ];
