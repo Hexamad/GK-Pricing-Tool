@@ -1032,126 +1032,126 @@ export const products: Product[] = [
   metrics: ['mm', 'cm', 'inch', 'feet']
 },
 
-// {
-//   id: "27",
-//   name: "AIR BUBBLE ROLL",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://images.jdmagicbox.com/quickquotes/images_main/air-bubble-wrap-for-packaging-sheet-thickness-0-3-1-mm-2217206815-x3s6f82c.jpg",
-//   densities: ["10 Density"],
-//   dimensions: [42,78],
-//   sizes: ['100 meter'], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "27",
+  name: "AIR BUBBLE ROLL",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://images.jdmagicbox.com/quickquotes/images_main/air-bubble-wrap-for-packaging-sheet-thickness-0-3-1-mm-2217206815-x3s6f82c.jpg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-// {
-//   id: "28",
-//   name: "EVA FOAM Sheet",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://img1.exportersindia.com/product_images/bc-full/2023/9/6502960/eva-foam-sheet-1693806200-7062806.jpeg",
-//   densities: ["10 Density"],
-//   dimensions: [42,78],
-//   sizes: ['100 meter'], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "28",
+  name: "EVA FOAM Sheet",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://img1.exportersindia.com/product_images/bc-full/2023/9/6502960/eva-foam-sheet-1693806200-7062806.jpeg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-// {
-//   id: "29",
-//   name: "EVA FOAM Roll",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://m.packingbubblewraps.com/photo/pd145581000-multicolor_eva_foam_sheet_roll_recyclable_shock_resistant_for_sports.jpg",
-//   densities: ["10 Density"],
-//   dimensions: [42,78],
-//   sizes: ['100 meter'], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "29",
+  name: "EVA FOAM Roll",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://m.packingbubblewraps.com/photo/pd145581000-multicolor_eva_foam_sheet_roll_recyclable_shock_resistant_for_sports.jpg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-// {
-//   id: "30",
-//   name: "PU FOAM ROLL",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/SS/RR/EN/SELLER-114679/hard-foam-in-rolls-500x500.jpg",
-//   densities: ["10 Density"],
-//   dimensions: [42,78],
-//   sizes: ['100 meter'], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "30",
+  name: "PU FOAM ROLL",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://5.imimg.com/data5/SS/RR/EN/SELLER-114679/hard-foam-in-rolls-500x500.jpg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-// {
-//   id: "31",
-//   name: "NON WOVEN FABRIC",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/SELLER/Default/2024/4/410119709/SF/MM/IM/25517131/pp-spunbond-nonwoven-fabric-500x500.jpg",
-//   densities: ["10 Density"],
-//   dimensions: [42,78],
-//   sizes: ['100 meter'], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "31",
+  name: "NON WOVEN FABRIC",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://5.imimg.com/data5/SELLER/Default/2024/4/410119709/SF/MM/IM/25517131/pp-spunbond-nonwoven-fabric-500x500.jpg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 
-// {
-//   id: "32",
-//   name: "STAPLER PIN",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://nakodastore.in/wp-content/uploads/2024/09/Stapler-Pins.jpg",
-//   densities: ["10 Density"],
-//   dimensions: [42,78],
-//   sizes: ['100 meter'], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "32",
+  name: "STAPLER PIN",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://nakodastore.in/wp-content/uploads/2024/09/Stapler-Pins.jpg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 // {
 //   id: "31",
@@ -1174,66 +1174,66 @@ export const products: Product[] = [
 // },
 
 
-// {
-//   id: "33",
-//   name: "REXIN",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/US/BM/II/SELLER-22996197/rexine-sofa-fabric-500x500.jpg",
-//   densities: ["10 Density"],
-//   dimensions: [42,78],
-//   sizes: ['100 meter'], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "33",
+  name: "REXIN",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://5.imimg.com/data5/US/BM/II/SELLER-22996197/rexine-sofa-fabric-500x500.jpg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-// {
-//   id: "34",
-//   name: "MATTRESS TAPE",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://image.made-in-china.com/202f0j00tflYEThrFoqB/Bedding-Tape-Mattress-Webbing-Tape-Bedding-Material.webp",
-//   densities: ["10 Density"],
-//   dimensions: [42,78],
-//   sizes: ['100 meter'], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "34",
+  name: "MATTRESS TAPE",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://image.made-in-china.com/202f0j00tflYEThrFoqB/Bedding-Tape-Mattress-Webbing-Tape-Bedding-Material.webp",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 
-// {
-//   id: "35",
-//   name: "ELASTIC NIVAAR ",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://img3.exportersindia.com/product_images/bc-full/2019/6/4571237/elastic-niwar-1561098131-4963510.jpeg",
-//   densities: ["10 Density"],
-//   dimensions: [42,78],
-//   sizes: ['100 meter'], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "35",
+  name: "ELASTIC NIVAAR ",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://img3.exportersindia.com/product_images/bc-full/2019/6/4571237/elastic-niwar-1561098131-4963510.jpeg",
+  densities: ["10 Density"],
+  dimensions: [42,78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 // {
 //   id: "36",
