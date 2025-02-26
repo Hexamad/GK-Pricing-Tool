@@ -895,7 +895,7 @@ export const products: Product[] = [
 
   {
     //image from assets folder
-    id: '22',
+    id: '23',
     name: 'Sofa-cum-Bed Fabric',
     description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
     basePrice: 10,
@@ -934,7 +934,7 @@ export const products: Product[] = [
   },
 
 {
-  id: "23",
+  id: "24",
   name: "EPE ROLL",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
@@ -956,7 +956,7 @@ export const products: Product[] = [
 },
 
 {
-  id: "24",
+  id: "25",
   name: "BOPP TAPE (Cello Tape)",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
@@ -976,7 +976,7 @@ export const products: Product[] = [
 },
 
 {
-  id: "25",
+  id: "26",
   name: "PVC Packing Clear ROLL",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
@@ -996,7 +996,7 @@ export const products: Product[] = [
 },
 
 {
-  id: "26",
+  id: "27",
   name: "AIR BUBBLE ROLL",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
@@ -1016,7 +1016,7 @@ export const products: Product[] = [
 },
 
 {
-  id: "27",
+  id: "28",
   name: "EVA FOAM Sheet",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
@@ -1036,7 +1036,7 @@ export const products: Product[] = [
 },
 
 {
-  id: "27",
+  id: "29",
   name: "EVA FOAM Roll",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
@@ -1056,7 +1056,7 @@ export const products: Product[] = [
 },
 
 {
-  id: "28",
+  id: "30",
   name: "PU FOAM ROLL",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
@@ -1076,7 +1076,7 @@ export const products: Product[] = [
 },
 
 {
-  id: "29",
+  id: "31",
   name: "NON WOVEN FABRIC",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
@@ -1097,7 +1097,7 @@ export const products: Product[] = [
 
 
 {
-  id: "30",
+  id: "32",
   name: "STAPLER PIN",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
@@ -1138,7 +1138,7 @@ export const products: Product[] = [
 
 
 {
-  id: "32",
+  id: "33",
   name: "REXIN",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
@@ -1158,7 +1158,7 @@ export const products: Product[] = [
 },
 
 {
-  id: "33",
+  id: "34",
   name: "MATTRESS TAPE",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
@@ -1179,7 +1179,7 @@ export const products: Product[] = [
 
 
 {
-  id: "34",
+  id: "35",
   name: "ELASTIC NIVAAR ",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
@@ -1199,7 +1199,7 @@ export const products: Product[] = [
 },
 
 {
-  id: "35",
+  id: "36",
   name: "SUPER SOFT FOAM Sheet",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
@@ -1220,7 +1220,7 @@ export const products: Product[] = [
 
 
 {
-  id: "35",
+  id: "37",
   name: "SUPER SOFT FOAM Roll",
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
@@ -1243,7 +1243,7 @@ export const products: Product[] = [
 
 
 {
-  id: '36',
+  id: '38',
   name: 'Soft fibre Pillow',
   description: 'Soft fibre Pillow',
   basePrice: 10,
@@ -1280,7 +1280,7 @@ export const products: Product[] = [
 },
 
 {
-  id: '37',
+  id: '39',
   name: 'Ultra Soft Contour Memory Foam Pillow',
   description: 'High-density coir sheet ideal for mattresses, cushions, packaging, and industrial use.',
   basePrice: 10,
@@ -1317,7 +1317,7 @@ export const products: Product[] = [
 },
 
 {
-  id: '38',
+  id: '40',
   name: 'Natural Latex Contour Pillow',
   description: 'Latex Contour Pillow',
   basePrice: 10,
@@ -1356,7 +1356,7 @@ export const products: Product[] = [
 // new Raw material
 
 {
-  id: '39',
+  id: '41',
   name: 'Mattress Protector',
   description: 'High-quality mattress protector designed to keep your mattress clean and protected.',
   basePrice: 10,
@@ -1397,7 +1397,7 @@ export const products: Product[] = [
 
 
 {
-  id: '40',
+  id: '42',
   name: 'Mattress Comforter',
   description: 'High-quality mattress comforter designed to provide extra comfort and protection.',
   basePrice: 10,
@@ -1440,7 +1440,7 @@ export const products: Product[] = [
 
 
 {
-  id: '41',
+  id: '43',
   name: 'Semi Fowler Mattress',
   description: 'High-quality folding mattress designed for easy storage and transport.',
   basePrice: 10,
@@ -1459,7 +1459,7 @@ export const products: Product[] = [
 },
 
 {
-  id: '41',
+  id: '44',
   name: 'Fowler Bed Mattress',
   description: 'High-quality folding mattress designed for easy storage and transport.',
   basePrice: 10,
@@ -1481,7 +1481,7 @@ export const products: Product[] = [
 
 
 {
-  id: '42',
+  id: '45',
   name: 'Hospital Mattress',
   description: 'High-quality hospital mattress designed for comfort and support in medical settings.',
   basePrice: 10,
@@ -1500,7 +1500,7 @@ export const products: Product[] = [
 },
 
 {
-  id: '43',
+  id: '46',
   name: 'Operation Theatre Mattress',
   description: 'High-quality operation theatre mattress designed for comfort and support during surgeries.',
   basePrice: 10,
@@ -1519,7 +1519,7 @@ export const products: Product[] = [
 },
 
 {
-  id: '43',
+  id: '47',
   name: 'Multiple Folding Mattress',
   description: 'High-quality operation theatre mattress designed for comfort and support during surgeries.',
   basePrice: 10,
@@ -1538,7 +1538,7 @@ export const products: Product[] = [
 },
 
 {
-  id: '44',
+  id: '48',
   name: 'Bostik Adhesive',
   description: 'High-quality Bostik adhesive ideal for various packing and bonding applications.',
   basePrice: 10,
@@ -1557,7 +1557,7 @@ export const products: Product[] = [
 },
 
 {
-  id: '45',
+  id: '49',
   name: 'Felt Roll',
   description: 'High-quality felt roll with standard GSM, ideal for various packing and protective applications.',
   basePrice: 10,
@@ -1577,7 +1577,7 @@ export const products: Product[] = [
 
 
 {
-  id: '46',
+  id: '50',
   name: 'Bonnel Spring unit',
   description: 'High-quality bonnel spring suitable for mattresses and other bedding applications.',
   basePrice: 10,
@@ -1617,7 +1617,7 @@ export const products: Product[] = [
 },
 
 {
-  id: '47',
+  id: '51',
   name: 'Pocket Spring',
   description: 'High-quality pocket spring suitable for mattresses and other bedding applications.',
   basePrice: 10,
@@ -1657,7 +1657,7 @@ export const products: Product[] = [
 },
 
 {
-  id: '48',
+  id: '52',
   name: 'Low Quality Mattress Piping Lace',
   description: 'High-quality mattress piping lace for enhancing the durability and appearance of mattresses.',
   basePrice: 10,
@@ -1676,7 +1676,7 @@ export const products: Product[] = [
 },
 
 {
-  id: '49',
+  id: '53',
   name: 'High Quality Mattress Piping Lace',
   description: 'High-quality mattress piping lace for enhancing the durability and appearance of mattresses.',
   basePrice: 10,
@@ -1697,7 +1697,7 @@ export const products: Product[] = [
 
 
 {
-  id: '50',
+  id: '54',
   name: 'Jhatpat Sofa',
   description: 'High-quality Jhatpat Sofa designed for quick setup and comfort.',
   basePrice: 100,
@@ -1716,7 +1716,7 @@ export const products: Product[] = [
 },
 
 {
-  id: '51',
+  id: '55',
   name: 'Sofa Back Rest',
   description: 'High-quality Sofa Back Rest designed for additional comfort and support.',
   basePrice: 50,
@@ -1737,7 +1737,7 @@ export const products: Product[] = [
 // pillow
 
 {
-  id: '52',
+  id: '56',
   name: 'Ultra Soft Memory Foam Pillow',
   description: 'Latex Contour Pillow',
   basePrice: 10,
@@ -1778,7 +1778,7 @@ export const products: Product[] = [
 
 
 {
-  id: '53',
+  id: '57',
   name: 'Colour LD PU Foam',
   description: 'High-quality foam padding material perfect for furniture, packaging, and industrial applications.',
   basePrice: 10,
@@ -1825,7 +1825,7 @@ export const products: Product[] = [
 
 // Fabric 
 {
-  id: '54',
+  id: '58',
   name: ' Cottura Knitting / Quilting Fabric',
   description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
   basePrice: 10,
@@ -1864,7 +1864,7 @@ export const products: Product[] = [
 },
 
 {
-  id: '55',
+  id: '59',
   name: ' Cotton Quilting Fabric',
   description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
   basePrice: 10,
