@@ -133,266 +133,266 @@ export const products: Product[] = [
 
 
 
-//   {
-//     id: '4',
-//     name: 'Memory Foam Sheets',
-//     description: 'High-quality memory foam sheets ideal for bedding, upholstery, and customized cushioning applications.',
-//     basePrice: 10, // Adjust as needed
-//     category: 'Foam',
-//     image: 'https://tiimg.tistatic.com/fp/1/007/209/white-color-memory-foam-sheets-263.jpg',
-//     densities: ['45 density', '55 density', '65 density'],
-//     dimensions: [20,25, 30, 35,40, 45,50,60,70, 75,80,85,90,95, 100,125, 150],
-//     sizes: {
-//       "feet": [
-//         '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//       ],
-//      "inches": [
-//   '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//   '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//   '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
-//   '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
-//   '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
-//   '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
-// ],
-//       "cm": [
-//         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['Comfortable', 'Pressure-relieving', 'Durable', 'Custom cuttable'],
-//     specs: {
-//       'Material': 'Memory Foam',
-//       'Certification': 'ISO 9001',
-//       'Fire Rating': 'Class B',
-//       'Color': 'White'
-//     },
-//     metrics: ['mm', 'cm', 'inch', 'feet']
-//   },
+  {
+    id: '4',
+    name: 'Memory Foam Sheets',
+    description: 'High-quality memory foam sheets ideal for bedding, upholstery, and customized cushioning applications.',
+    basePrice: 10, // Adjust as needed
+    category: 'Foam',
+    image: 'https://tiimg.tistatic.com/fp/1/007/209/white-color-memory-foam-sheets-263.jpg',
+    densities: ['45 density', '55 density', '65 density'],
+    dimensions: [20,25, 30, 35,40, 45,50,60,70, 75,80,85,90,95, 100,125, 150],
+    sizes: {
+      "feet": [
+        '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+        '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+        '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['Comfortable', 'Pressure-relieving', 'Durable', 'Custom cuttable'],
+    specs: {
+      'Material': 'Memory Foam',
+      'Certification': 'ISO 9001',
+      'Fire Rating': 'Class B',
+      'Color': 'White'
+    },
+    metrics: ['mm', 'cm', 'inch', 'feet']
+  },
 
 
-//   { 
-//     id: '5',
-//     name: 'Gel Memory Foam Sheets',
-//     description: 'Premium gel-infused memory foam sheets designed for superior comfort and durability, suitable for bedding, furniture, and specialized applications.',
-//     basePrice: 10, // Assuming a base price; adjust as needed
-//     category: 'Foam',
-//     image: 'https://m.media-amazon.com/images/I/81LvYefzOFL._SL1500_.jpg',
-//     densities: ['45 density', '55 density', '65 density'], // As per the description
-//     dimensions: [20,25, 30, 35,40, 45,50,60,70, 75,80,85,90,95, 100,125, 150],
-//     sizes: {
-//       "feet": [
-//         '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//       ],
-//      "inches": [
-//   '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//   '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//   '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
-//   '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
-//   '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
-//   '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
-// ],
-//       "cm": [
-//         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['Gel-infused for cooling', 'Pressure-relief properties', 'Highly durable', 'Customizable sizes'],
-//     specs: {
-//       'Material': 'Gel-infused Polyurethane',
-//       'Certification': 'ISO 9001',
-//       'Fire Rating': 'Class B',
-//       'Color': 'White'
-//     },
-//     metrics: ['mm', 'cm', 'inch', 'feet']
-//   },
+  { 
+    id: '5',
+    name: 'Gel Memory Foam Sheets',
+    description: 'Premium gel-infused memory foam sheets designed for superior comfort and durability, suitable for bedding, furniture, and specialized applications.',
+    basePrice: 10, // Assuming a base price; adjust as needed
+    category: 'Foam',
+    image: 'https://m.media-amazon.com/images/I/81LvYefzOFL._SL1500_.jpg',
+    densities: ['45 density', '55 density', '65 density'], // As per the description
+    dimensions: [20,25, 30, 35,40, 45,50,60,70, 75,80,85,90,95, 100,125, 150],
+    sizes: {
+      "feet": [
+        '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+        '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+        '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['Gel-infused for cooling', 'Pressure-relief properties', 'Highly durable', 'Customizable sizes'],
+    specs: {
+      'Material': 'Gel-infused Polyurethane',
+      'Certification': 'ISO 9001',
+      'Fire Rating': 'Class B',
+      'Color': 'White'
+    },
+    metrics: ['mm', 'cm', 'inch', 'feet']
+  },
 
-//   {
-//     id: '6',
-//       name: 'Natural LATEX SHEET', 
-//       description: 'High-quality latex sheet material suitable for bedding, furniture, and industrial uses.',
-//       basePrice: 15,
-//       category: 'Foam',
-//       image: 'https://5.imimg.com/data5/ANDROID/Default/2020/9/HH/UG/DH/44643334/product-jpeg-500x500.png',
-//       densities: ['one side pin core - 75 Density', 'two side pin core - 75 Density',],
-//       dimensions: [12,18,25,50,75,100,150],
-//       sizes: {
-//         "feet": [
-//           '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//           '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//           '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//         ],
-//         "inches": [
-//           '72 inches x 36 inches', '72 inches x 36inches ', '75 inches x 36 inches', '75inches x 36 inches', '75 inches x 24inches', '75 inches x 24 inches',
-//           '75 inches x 24 inches', '75 inches x 60 inches', '78 inches x 72 inches', '78 inches x 60 inches', '78 inches x 72 inches', 
-//         ],
-//         "cm": [
-//           '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//           '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//           '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//         ],
-//         "mm": [
-//           '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//           '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//           '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//         ]
-//       },
-//       features: ['Durable', 'Hypoallergenic', 'Moisture resistant', 'Custom cuttable'],
-//       specs: {
-//         'Material': 'Natural Latex',
-//         'Certification': 'ISO 9001',
-//         'Fire Rating': 'Class C',
-//         'Color': 'Beige'
-//       },
-//       metrics: ['mm', 'cm', 'inch', 'feet']
-//   },
+  {
+    id: '6',
+      name: 'Natural LATEX SHEET', 
+      description: 'High-quality latex sheet material suitable for bedding, furniture, and industrial uses.',
+      basePrice: 15,
+      category: 'Foam',
+      image: 'https://5.imimg.com/data5/ANDROID/Default/2020/9/HH/UG/DH/44643334/product-jpeg-500x500.png',
+      densities: ['one side pin core - 75 Density', 'two side pin core - 75 Density',],
+      dimensions: [12,18,25,50,75,100,150],
+      sizes: {
+        "feet": [
+          '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+          '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+          '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+        ],
+        "inches": [
+          '72 inches x 36 inches', '72 inches x 36inches ', '75 inches x 36 inches', '75inches x 36 inches', '75 inches x 24inches', '75 inches x 24 inches',
+          '75 inches x 24 inches', '75 inches x 60 inches', '78 inches x 72 inches', '78 inches x 60 inches', '78 inches x 72 inches', 
+        ],
+        "cm": [
+          '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+          '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+          '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+        ],
+        "mm": [
+          '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+          '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+          '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+        ]
+      },
+      features: ['Durable', 'Hypoallergenic', 'Moisture resistant', 'Custom cuttable'],
+      specs: {
+        'Material': 'Natural Latex',
+        'Certification': 'ISO 9001',
+        'Fire Rating': 'Class C',
+        'Color': 'Beige'
+      },
+      metrics: ['mm', 'cm', 'inch', 'feet']
+  },
 
-//   {
-//     id: '7',
-//     name: 'Natural LATEX 7 ZONE SHEETS',
-//     description: 'Premium 7-zone latex foam sheets designed for optimal comfort and support in bedding, furniture, and ergonomic applications.',
-//     basePrice: 20, // Example base price, you can update this value
-//     category: 'Foam',
-//     image: 'https://5.imimg.com/data5/SELLER/Default/2023/9/341157692/MM/LX/YE/141117433/zero-foam-flex-mattress-1000x1000.jpeg', // Replace with an appropriate image URL if available
-//     densities: ['75 density'], // Adjust if needed
-//     dimensions: [
-//        50, 100, 150, // Equivalent to 4 inches
-//      // Equivalent to 10 inches
-//     ],
-//     sizes: {
-//       "feet": [
-//         '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//       ],
-//       "inches": [
-//         '75 inches x 36 inches', '78 inches x 60 inches', '78 inches x 72 inches',
-//        ],
+  {
+    id: '7',
+    name: 'Natural LATEX 7 ZONE SHEETS',
+    description: 'Premium 7-zone latex foam sheets designed for optimal comfort and support in bedding, furniture, and ergonomic applications.',
+    basePrice: 20, // Example base price, you can update this value
+    category: 'Foam',
+    image: 'https://5.imimg.com/data5/SELLER/Default/2023/9/341157692/MM/LX/YE/141117433/zero-foam-flex-mattress-1000x1000.jpeg', // Replace with an appropriate image URL if available
+    densities: ['75 density'], // Adjust if needed
+    dimensions: [
+       50, 100, 150, // Equivalent to 4 inches
+     // Equivalent to 10 inches
+    ],
+    sizes: {
+      "feet": [
+        '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+        '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+        '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+      ],
+      "inches": [
+        '75 inches x 36 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+       ],
         
-//       "cm": [
-//         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['7-zone ergonomic design', 'Eco-friendly', 'Highly durable', 'Custom cuttable'],
-//     specs: {
-//       'Material': 'Natural Latex',
-//       'Certification': 'ISO 9001',
-//       'Fire Rating': 'Class B',
-//       'Color': 'White'
-//     },
-//     metrics: ['mm', 'cm', 'inch', 'feet']
-//   },
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['7-zone ergonomic design', 'Eco-friendly', 'Highly durable', 'Custom cuttable'],
+    specs: {
+      'Material': 'Natural Latex',
+      'Certification': 'ISO 9001',
+      'Fire Rating': 'Class B',
+      'Color': 'White'
+    },
+    metrics: ['mm', 'cm', 'inch', 'feet']
+  },
   
 
-//   {
-//     id: '8',
-//     name: 'Rubberized Coir Sheet',
-//     description: 'High-density coir sheet ideal for mattresses, cushions, packaging, and industrial use.',
-//     basePrice: 15,
-//     category: 'Foam',
-//     image: 'https://www.sughana.com/image/products/rubberized-coir-sheet.jpg', // Replace with an actual coir-related image URL
-//     densities: ['70 density', '80 density', '90 density', '100 density', '110 density'],
-//     dimensions: [12,15,18, 21, 25, 50, 75, 100,125], // Dimensions in mm
-//     sizes: {
-//       "feet": [
-//         '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//       ],
-//      "inches": [
-//   '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//   '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//   '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
-//   '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
-//   '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
-//   '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
-// ],
-//       "cm": [
-//         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
-//     specs: {
-//       'Material': 'Coir Fiber',
-//       'Certification': 'ISO 9001',
-//       'Fire Rating': 'Class B',
-//       'Color': 'Brown'
-//     },
-//     metrics: ['mm', 'cm', 'inch', 'feet']
-//   },
+  {
+    id: '8',
+    name: 'Rubberized Coir Sheet',
+    description: 'High-density coir sheet ideal for mattresses, cushions, packaging, and industrial use.',
+    basePrice: 15,
+    category: 'Foam',
+    image: 'https://www.sughana.com/image/products/rubberized-coir-sheet.jpg', // Replace with an actual coir-related image URL
+    densities: ['70 density', '80 density', '90 density', '100 density', '110 density'],
+    dimensions: [12,15,18, 21, 25, 50, 75, 100,125], // Dimensions in mm
+    sizes: {
+      "feet": [
+        '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+        '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+        '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
+    specs: {
+      'Material': 'Coir Fiber',
+      'Certification': 'ISO 9001',
+      'Fire Rating': 'Class B',
+      'Color': 'Brown'
+    },
+    metrics: ['mm', 'cm', 'inch', 'feet']
+  },
 
-//   {
-//     id: '9',
-//     name: 'Rebonded Sheets',
-//     description: 'High-density rebonded foam sheets designed for enhanced durability and support, suitable for mattresses, cushioning, and industrial applications.',
-//     basePrice: 10,
-//     category: 'Foam',
-//     image: 'https://5.imimg.com/data5/AO/VM/HT/SELLER-6371482/bonded-foam-sheets-500x500.jpg',
-//     densities: ['80 density', '90 density', '100 density', '110 density',],
-//     dimensions: [12,15,18,19,20,21, 22,23,24, 25,30,35,40,45,48, 50,55,60,65,70, 75,80,85,90,95,98, 100,110,115,120,125,150],
-//     sizes: {
-//       "feet": [
-//         '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//       ],
-//      "inches": [
-//   '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//   '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//   '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
-//   '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
-//   '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
-//   '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
-// ],
-//       "cm": [
-//         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['High density', 'Durable', 'Excellent support', 'Customizable sizes'],
-//     specs: {
-//       'Material': 'Rebonded Foam',
-//       'Certification': 'ISO 9001',
-//       'Fire Rating': 'Class B',
-//       'Color': 'Multi-color'
-//     },
-//     metrics: ['mm', 'cm', 'inch', 'feet']
-//   },
+  {
+    id: '9',
+    name: 'Rebonded Sheets',
+    description: 'High-density rebonded foam sheets designed for enhanced durability and support, suitable for mattresses, cushioning, and industrial applications.',
+    basePrice: 10,
+    category: 'Foam',
+    image: 'https://5.imimg.com/data5/AO/VM/HT/SELLER-6371482/bonded-foam-sheets-500x500.jpg',
+    densities: ['80 density', '90 density', '100 density', '110 density',],
+    dimensions: [12,15,18,19,20,21, 22,23,24, 25,30,35,40,45,48, 50,55,60,65,70, 75,80,85,90,95,98, 100,110,115,120,125,150],
+    sizes: {
+      "feet": [
+        '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+        '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+        '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['High density', 'Durable', 'Excellent support', 'Customizable sizes'],
+    specs: {
+      'Material': 'Rebonded Foam',
+      'Certification': 'ISO 9001',
+      'Fire Rating': 'Class B',
+      'Color': 'Multi-color'
+    },
+    metrics: ['mm', 'cm', 'inch', 'feet']
+  },
 
 
 //   // new one 
