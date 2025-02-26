@@ -521,516 +521,516 @@ export const products: Product[] = [
     },
 
 
-//   {
-//   id: '13',
-//   name: 'EPE SHEETS',
-//   description: 'High-quality EPE foam sheets, perfect for packaging and protecting a wide range of items during storage or transportation.',
-//   basePrice: 10,
-//   category: 'Packing Material',
-//   image: 'https://m.media-amazon.com/images/I/718+Jl14oOL.jpg',
-//   densities: ['18 density', '23 density', '28 density'],
-//   dimensions: [15, 18, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100],
-//   sizes: {
-//     "feet": [
-//       '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//       '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//     ]
-//   },
-//   features: ['Lightweight', 'Impact resistant', 'Waterproof', 'Customizable'],
-//   specs: {
-//     'Material': 'EPE Foam',
-//     'Certification': 'ISO 9001',
-//     'Fire Rating': 'Class C',
-//     'Color': 'White'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+  {
+  id: '13',
+  name: 'EPE SHEETS',
+  description: 'High-quality EPE foam sheets, perfect for packaging and protecting a wide range of items during storage or transportation.',
+  basePrice: 10,
+  category: 'Packing Material',
+  image: 'https://m.media-amazon.com/images/I/718+Jl14oOL.jpg',
+  densities: ['18 density', '23 density', '28 density'],
+  dimensions: [15, 18, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100],
+  sizes: {
+    "feet": [
+      '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+      '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+    ]
+  },
+  features: ['Lightweight', 'Impact resistant', 'Waterproof', 'Customizable'],
+  specs: {
+    'Material': 'EPE Foam',
+    'Certification': 'ISO 9001',
+    'Fire Rating': 'Class C',
+    'Color': 'White'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
   
-// {
-//   id: '14',
-//   name: 'Bonnel Spring mattress ',
-//   description: 'High-quality bonnel spring suitable for mattresses and other bedding applications.',
-//   basePrice: 10,
-//   category: 'Mattress Raw Material',
-//   image: 'https://5.imimg.com/data5/HP/QS/MY-54889916/8-inch-bonnell-spring-mattress.jpg', // Replace with an actual image URL
-//   densities: ['40'],
-//   dimensions: [75, 100, 125, 150],
-//   sizes: {
-//     "feet": [
-//       '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//       '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//       '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//     ],
-//     "inches": [
-//       '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//       '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//       '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//     ],
-//     "cm": [
-//       '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//       '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//       '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//     ],
-//     "mm": [
-//       '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//       '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//       '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//     ]
-//   },
-//   features: ['Durable', 'High-quality', 'Supportive', 'Customizable sizes'],
-//   specs: {
-//     'Material': 'Steel',
-//     'Certification': 'ISO 9001',
-//     'Color': 'Silver'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: '14',
+  name: 'Bonnel Spring mattress ',
+  description: 'High-quality bonnel spring suitable for mattresses and other bedding applications.',
+  basePrice: 10,
+  category: 'Mattress Raw Material',
+  image: 'https://5.imimg.com/data5/HP/QS/MY-54889916/8-inch-bonnell-spring-mattress.jpg', // Replace with an actual image URL
+  densities: ['40'],
+  dimensions: [75, 100, 125, 150],
+  sizes: {
+    "feet": [
+      '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+      '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+      '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+    ],
+    "inches": [
+      '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+      '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+      '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+    ],
+    "cm": [
+      '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+      '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+      '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+    ],
+    "mm": [
+      '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+      '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+      '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+    ]
+  },
+  features: ['Durable', 'High-quality', 'Supportive', 'Customizable sizes'],
+  specs: {
+    'Material': 'Steel',
+    'Certification': 'ISO 9001',
+    'Color': 'Silver'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 
-// {
-//   id: '15',
-//   name: 'Pocket Spring',
-//   description: 'High-quality pocket spring suitable for mattresses and other bedding applications.',
-//   basePrice: 10,
-//   category: 'Mattress Raw Material',
-//   image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrwlQTIravsWohMjQMm7uaikDFK6IssioJLA&s', // Replace with an actual image URL
-//   densities: ['40'],
-//   dimensions: [110, 145, 150, 180],
-//   sizes: {
-//     "feet": [
-//       '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//       '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//       '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//     ],
-//     "inches": [
-//       '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//       '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//       '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-//     ],
-//     "cm": [
-//       '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//       '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//       '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//     ],
-//     "mm": [
-//       '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//       '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//       '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//     ]
-//   },
-//   features: ['Durable', 'High-quality', 'Supportive', 'Customizable sizes'],
-//   specs: {
-//     'Material': 'Steel',
-//     'Certification': 'ISO 9001',
-//     'Color': 'Silver'
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
-// // foam ends 
-// // pillow
+{
+  id: '15',
+  name: 'Pocket Spring',
+  description: 'High-quality pocket spring suitable for mattresses and other bedding applications.',
+  basePrice: 10,
+  category: 'Mattress Raw Material',
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrwlQTIravsWohMjQMm7uaikDFK6IssioJLA&s', // Replace with an actual image URL
+  densities: ['40'],
+  dimensions: [110, 145, 150, 180],
+  sizes: {
+    "feet": [
+      '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+      '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+      '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+    ],
+    "inches": [
+      '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+      '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+      '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+    ],
+    "cm": [
+      '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+      '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+      '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+    ],
+    "mm": [
+      '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+      '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+      '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+    ]
+  },
+  features: ['Durable', 'High-quality', 'Supportive', 'Customizable sizes'],
+  specs: {
+    'Material': 'Steel',
+    'Certification': 'ISO 9001',
+    'Color': 'Silver'
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
+// foam ends 
+// pillow
 
-//   {
-//     id: '16',
-//     name: 'Soft Quilted Fibre Pillow',
-//     description: 'Recron Pillow',
-//     basePrice: 10,
-//     category: 'Pillow',
-//     image: 'https://m.media-amazon.com/images/I/71tQ38DgaEL.jpg', // Replace with an actual coir-related image URL
-//     densities: ['16 inch * 24 inch' , '17 inch * 27 inch'],
-//     dimensions: [1], // Dimensions in mm
-//     sizes: {
+  {
+    id: '16',
+    name: 'Soft Quilted Fibre Pillow',
+    description: 'Recron Pillow',
+    basePrice: 10,
+    category: 'Pillow',
+    image: 'https://m.media-amazon.com/images/I/71tQ38DgaEL.jpg', // Replace with an actual coir-related image URL
+    densities: ['16 inch * 24 inch' , '17 inch * 27 inch'],
+    dimensions: [1], // Dimensions in mm
+    sizes: {
     
-//      "inches": [
-//   '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//   '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//   '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
-//   '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
-//   '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
-//   '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
-// ],
-//       "cm": [
-//         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
-//     specs: {
-//       'Material': 'Coir Fiber',
-//       'Certification': 'ISO 9001',
-//       'Fire Rating': 'Class B',
-//       'Color': 'Brown'
-//     },
-//     metrics: ['mm', 'cm', 'inch', ]
-//   },
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
+    specs: {
+      'Material': 'Coir Fiber',
+      'Certification': 'ISO 9001',
+      'Fire Rating': 'Class B',
+      'Color': 'Brown'
+    },
+    metrics: ['mm', 'cm', 'inch', ]
+  },
 
-//   {
-//     id: '17',
-//     name: ' Ultra Soft Gel Memory Foam Pillow',
-//     description: 'High-density coir sheet ideal for mattresses, cushions, packaging, and industrial use.',
-//     basePrice: 10,
-//     category: 'Pillow',
-//     image: 'https://m.media-amazon.com/images/I/714KDs4Yi-L._AC_UF894,1000_QL80_.jpg', // Replace with an actual coir-related image URL
-//     densities: ['16 Inch * 24 inch' , '17 Inch * 27 inch'],
-//     dimensions: [1], // Dimensions in mm
-//     sizes: {
-//      "inches": [
-//   '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//   '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//   '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
-//   '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
-//   '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
-//   '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
-// ],
-//       "cm": [
-//         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
-//     specs: {
-//       'Material': 'Coir Fiber',
-//       'Certification': 'ISO 9001',
-//       'Fire Rating': 'Class B',
-//       'Color': 'Brown'
-//     },
-//     metrics: ['mm', 'cm', 'inch', ]
-//   },
+  {
+    id: '17',
+    name: ' Ultra Soft Gel Memory Foam Pillow',
+    description: 'High-density coir sheet ideal for mattresses, cushions, packaging, and industrial use.',
+    basePrice: 10,
+    category: 'Pillow',
+    image: 'https://m.media-amazon.com/images/I/714KDs4Yi-L._AC_UF894,1000_QL80_.jpg', // Replace with an actual coir-related image URL
+    densities: ['16 Inch * 24 inch' , '17 Inch * 27 inch'],
+    dimensions: [1], // Dimensions in mm
+    sizes: {
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
+    specs: {
+      'Material': 'Coir Fiber',
+      'Certification': 'ISO 9001',
+      'Fire Rating': 'Class B',
+      'Color': 'Brown'
+    },
+    metrics: ['mm', 'cm', 'inch', ]
+  },
 
-//   {
-//     id: '18',
-//     name: ' Natural Latex Pillow',
-//     description: ' Ultra-Soft Latex Pillow',
-//     basePrice: 10,
-//     category: 'Pillow',
-//     image: 'https://i5.walmartimages.com/seo/Beautyrest-Latex-Foam-Bed-Pillow-with-Removable-Cover-Standard-Cotton_42fdfb09-594f-4ecf-b3e1-3abea7e61f19.c599602be2324d6febe2ec11f39bfd9d.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF', // Replace with an actual coir-related image URL
-//     densities: ['16 inch * 24 inch ' , '17 inch * 27 inch '],
-//     dimensions: [1], // Dimensions in mm
-//     sizes: {
+  {
+    id: '18',
+    name: ' Natural Latex Pillow',
+    description: ' Ultra-Soft Latex Pillow',
+    basePrice: 10,
+    category: 'Pillow',
+    image: 'https://i5.walmartimages.com/seo/Beautyrest-Latex-Foam-Bed-Pillow-with-Removable-Cover-Standard-Cotton_42fdfb09-594f-4ecf-b3e1-3abea7e61f19.c599602be2324d6febe2ec11f39bfd9d.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF', // Replace with an actual coir-related image URL
+    densities: ['16 inch * 24 inch ' , '17 inch * 27 inch '],
+    dimensions: [1], // Dimensions in mm
+    sizes: {
       
-//      "inches": [
-//   '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//   '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//   '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
-//   '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
-//   '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
-//   '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
-// ],
-//       "cm": [
-//         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
-//     specs: {
-//       'Material': 'Coir Fiber',
-//       'Certification': 'ISO 9001',
-//       'Fire Rating': 'Class B',
-//       'Color': 'Brown'
-//     },
-//     metrics: ['mm', 'cm', 'inch']
-//   },
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['Eco-friendly', 'Durable', 'Moisture resistant', 'Custom cuttable'],
+    specs: {
+      'Material': 'Coir Fiber',
+      'Certification': 'ISO 9001',
+      'Fire Rating': 'Class B',
+      'Color': 'Brown'
+    },
+    metrics: ['mm', 'cm', 'inch']
+  },
 
-//   {
-//     //80 inch width ; 88 inch width
-//     id: '19',
-//     name: 'ROTTO Quilting Fabric',
-//     description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
-//     basePrice: 10,
-//     category: 'Quiltings',
-//     image: 'https://5.imimg.com/data5/MB/ML/QF/ANDROID-17830911/product-jpeg-1000x1000.jpg',
-//     densities: ['80 GSM'],
-//     dimensions: [5,7,10,12,15,20,25],
-//     sizes: {
-//       "feet": [
-//         '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//       ],
-//      "inches": [
-//   '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//   '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//   '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
-//   '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
-//   '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
-//   '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
-// ],
-//       "cm": [
-//         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
-//     specs: {
-//       'Material': 'Polyester',
-//       'Certification': 'ISO 14001',
-//       'Color': 'White'
-//     },metrics: ['mm', 'cm', 'inch', 'feet'],
+  {
+    //80 inch width ; 88 inch width
+    id: '19',
+    name: 'ROTTO Quilting Fabric',
+    description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
+    basePrice: 10,
+    category: 'Quiltings',
+    image: 'https://5.imimg.com/data5/MB/ML/QF/ANDROID-17830911/product-jpeg-1000x1000.jpg',
+    densities: ['80 GSM'],
+    dimensions: [5,7,10,12,15,20,25],
+    sizes: {
+      "feet": [
+        '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+        '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+        '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
+    specs: {
+      'Material': 'Polyester',
+      'Certification': 'ISO 14001',
+      'Color': 'White'
+    },metrics: ['mm', 'cm', 'inch', 'feet'],
   
-//   },
+  },
 
 //   // new fabric 
 
 
-//   {
-//     id: '20',
-//     name: 'Cotlook Quilting Fabric',
-//     description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
-//     basePrice: 10,
-//     category: 'Quiltings',
-//     image: 'https://5.imimg.com/data5/ANDROID/Default/2023/7/325503991/BK/RB/MG/8192707/product-jpeg-500x500.jpg',
-//     densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
-//     sizes: {
-//       "feet": [
-//         '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//       ],
-//      "inches": [
-//   '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//   '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//   '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
-//   '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
-//   '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
-//   '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
-// ],
-//       "cm": [
-//         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
-//     specs: {
-//       'Material': 'Polyester',
-//       'Certification': 'ISO 14001',
-//       'Color': 'White'
-//     },metrics: ['mm', 'cm', 'inch', 'feet'],
-//     dimensions: [5,7,10,12,15,20,25],
-//   },
+  {
+    id: '20',
+    name: 'Cotlook Quilting Fabric',
+    description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
+    basePrice: 10,
+    category: 'Quiltings',
+    image: 'https://5.imimg.com/data5/ANDROID/Default/2023/7/325503991/BK/RB/MG/8192707/product-jpeg-500x500.jpg',
+    densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
+    sizes: {
+      "feet": [
+        '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+        '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+        '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
+    specs: {
+      'Material': 'Polyester',
+      'Certification': 'ISO 14001',
+      'Color': 'White'
+    },metrics: ['mm', 'cm', 'inch', 'feet'],
+    dimensions: [5,7,10,12,15,20,25],
+  },
 
 
-//   {
-//         //80 inch width ; 88 inch width
-//     id: '21',
-//     name: 'Satin Quilting Fabric',
-//     description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
-//     basePrice: 10,
-//     category: 'Quiltings',
-//     image: 'https://5.imimg.com/data5/SELLER/Default/2023/3/295989569/TD/TB/IK/1909383/poly-gc-fabric-500x500.jpeg',
-//     densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
-//     sizes: {
-//       "feet": [
-//         '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//       ],
-//      "inches": [
-//   '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//   '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//   '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
-//   '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
-//   '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
-//   '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
-// ],
-//       "cm": [
-//         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
-//     specs: {
-//       'Material': 'Polyester',
-//       'Certification': 'ISO 14001',
-//       'Color': 'White'
-//     },metrics: ['mm', 'cm', 'inch', 'feet'],
-//     dimensions: [5,7,10,12,15,20,25],
-//   },
+  {
+        //80 inch width ; 88 inch width
+    id: '21',
+    name: 'Satin Quilting Fabric',
+    description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
+    basePrice: 10,
+    category: 'Quiltings',
+    image: 'https://5.imimg.com/data5/SELLER/Default/2023/3/295989569/TD/TB/IK/1909383/poly-gc-fabric-500x500.jpeg',
+    densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
+    sizes: {
+      "feet": [
+        '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+        '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+        '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
+    specs: {
+      'Material': 'Polyester',
+      'Certification': 'ISO 14001',
+      'Color': 'White'
+    },metrics: ['mm', 'cm', 'inch', 'feet'],
+    dimensions: [5,7,10,12,15,20,25],
+  },
 
 
 
-//   {
-//     //image from assets folder
-//     id: '22',
-//     name: 'Stretchable Quilting Fabric',
-//     description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
-//     basePrice: 10,
-//     category: 'Quiltings',
-//     image: 'https://lh3.googleusercontent.com/d/1sekcl1HLPZ0qSajqds8lzJtX5223Qju7=s220',
-//     densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
-//     dimensions: [5,7,10,12,15,20,25],
-//     sizes: {
-//       "feet": [
-//         '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//       ],
-//      "inches": [
-//   '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//   '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//   '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
-//   '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
-//   '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
-//   '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
-// ],
-//       "cm": [
-//         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
-//     specs: {
-//       'Material': 'Polyester',
-//       'Certification': 'ISO 14001',
-//       'Color': 'White'
-//     },metrics: ['mm', 'cm', 'inch', 'feet'],
+  {
+    //image from assets folder
+    id: '22',
+    name: 'Stretchable Quilting Fabric',
+    description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
+    basePrice: 10,
+    category: 'Quiltings',
+    image: 'https://lh3.googleusercontent.com/d/1sekcl1HLPZ0qSajqds8lzJtX5223Qju7=s220',
+    densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
+    dimensions: [5,7,10,12,15,20,25],
+    sizes: {
+      "feet": [
+        '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+        '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+        '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
+    specs: {
+      'Material': 'Polyester',
+      'Certification': 'ISO 14001',
+      'Color': 'White'
+    },metrics: ['mm', 'cm', 'inch', 'feet'],
  
-//   },
+  },
 
-//   {
-//     //image from assets folder
-//     id: '23',
-//     name: 'Sofa-cum-Bed Fabric',
-//     description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
-//     basePrice: 10,
-//     category: 'Mattress Raw Material',
-//     image: 'https://lh3.googleusercontent.com/d/1Icue1IJ6-MYRozymZehFt7847ILX7It6=s220',
-//     densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
-//     sizes: {
-//       "feet": [
-//         '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
-//         '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
-//         '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-//       ],
-//      "inches": [
-//   '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-//   '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-//   '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
-//   '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
-//   '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
-//   '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
-// ],
-//       "cm": [
-//         '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-//         '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-//         '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-//       ],
-//       "mm": [
-//         '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-//         '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-//         '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-//       ]
-//     },
-//     features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
-//     specs: {
-//       'Material': 'Polyester',
-//       'Certification': 'ISO 14001',
-//       'Color': 'White'
-//     },metrics: ['mm', 'cm', 'inch', 'feet'],
-//     dimensions: [5,7,10,12,15,20,25],
-//   },
+  {
+    //image from assets folder
+    id: '23',
+    name: 'Sofa-cum-Bed Fabric',
+    description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
+    basePrice: 10,
+    category: 'Mattress Raw Material',
+    image: 'https://lh3.googleusercontent.com/d/1Icue1IJ6-MYRozymZehFt7847ILX7It6=s220',
+    densities: ['100 GSM', '200 GSM', '300 GSM', '400 GSM',],
+    sizes: {
+      "feet": [
+        '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+        '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+        '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+      ],
+     "inches": [
+  '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+  '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+  '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches',
+  '75 inches x 36 inches x 1 inch', '75 inches x 36 inches x 1.5 inches', '75 inches x 36 inches x 2 inches', '75 inches x 36 inches x 3 inches', '75 inches x 36 inches x 4 inches',
+  '75 inches x 24 inches x 1 inch', '75 inches x 24 inches x 2 inches', '75 inches x 24 inches x 4 inches',
+  '78 inches x 60 inches x 1 inch', '78 inches x 72 inches x 1 inch', '78 inches x 60 inches x 2 inches', '78 inches x 72 inches x 2 inches'
+],
+      "cm": [
+        '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+        '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+        '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+      ],
+      "mm": [
+        '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+        '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+        '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+      ]
+    },
+    features: ['Soft texture', 'Durable', 'Lightweight', 'Easy to handle'],
+    specs: {
+      'Material': 'Polyester',
+      'Certification': 'ISO 14001',
+      'Color': 'White'
+    },metrics: ['mm', 'cm', 'inch', 'feet'],
+    dimensions: [5,7,10,12,15,20,25],
+  },
 
-// {
-//   id: "24",
-//   name: "EPE ROLL",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
-//   densities: ["18 density", "20 density", "23 density"],
-//   dimensions: [2, 5, 10, 15],
-//   sizes: [
-//     "2mm x 100 cm"
-//   ],
-//   features: ["Lightweight", "Impact resistant", "Waterproof", "Customizable"],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "24",
+  name: "EPE ROLL",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://5.imimg.com/data5/SELLER/Default/2022/8/FT/KK/OW/2531564/epe-foam-roll.jpeg",
+  densities: ["18 density", "20 density", "23 density"],
+  dimensions: [2, 5, 10, 15],
+  sizes: [
+    "2mm x 100 cm"
+  ],
+  features: ["Lightweight", "Impact resistant", "Waterproof", "Customizable"],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-// {
-//   id: "25",
-//   name: "BOPP TAPE (Cello Tape)",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://aristoecopack.com/cdn/shop/products/BOPPTape_600x600.jpg?v=1652861206",
-//   densities: ["18 density", "20 density", "23 density"],
-//   dimensions: [50.],
-//   sizes: ['60 meter'], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "25",
+  name: "BOPP TAPE (Cello Tape)",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://aristoecopack.com/cdn/shop/products/BOPPTape_600x600.jpg?v=1652861206",
+  densities: ["18 density", "20 density", "23 density"],
+  dimensions: [50.],
+  sizes: ['60 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
-// {
-//   id: "26",
-//   name: "PVC Packing Clear ROLL",
-//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-//   basePrice: 10,
-//   category: "Packing Material",
-//   image: "https://5.imimg.com/data5/SELLER/Default/2022/9/LT/GF/EB/56591117/mattress-lamination-pvc-sheet-500x500-250x250.jpg",
-//   densities: ["18 density", "20 density", "23 density"],
-//   dimensions: [42, 78],
-//   sizes: ['100 meter'], 
-//   features: [],
-//   specs: {
-//     "Material": "EPE Foam",
-//     "Certification": "ISO 9001",
-//     "Fire Rating": "Class C",
-//     "Color": "White"
-//   },
-//   metrics: ['mm', 'cm', 'inch', 'feet']
-// },
+{
+  id: "26",
+  name: "PVC Packing Clear ROLL",
+  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+  basePrice: 10,
+  category: "Packing Material",
+  image: "https://5.imimg.com/data5/SELLER/Default/2022/9/LT/GF/EB/56591117/mattress-lamination-pvc-sheet-500x500-250x250.jpg",
+  densities: ["18 density", "20 density", "23 density"],
+  dimensions: [42, 78],
+  sizes: ['100 meter'], 
+  features: [],
+  specs: {
+    "Material": "EPE Foam",
+    "Certification": "ISO 9001",
+    "Fire Rating": "Class C",
+    "Color": "White"
+  },
+  metrics: ['mm', 'cm', 'inch', 'feet']
+},
 
 // {
 //   id: "27",
