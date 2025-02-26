@@ -1289,7 +1289,7 @@ export const products: Product[] = [
   category: 'Pillow',
   image: 'https://static.wixstatic.com/media/dd9c7b_ebbecda3297f4fe7b3bdd0afebabbbfb~mv2.jpg/v1/fill/w_480,h_562,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dd9c7b_ebbecda3297f4fe7b3bdd0afebabbbfb~mv2.jpg', // Replace with an actual coir-related image URL
   densities: ['16 inch * 24 inch' , '17 inch * 27 inch'],
-  dimensions: [1], // Dimensions in mm
+  dimensions: [10,20], // Dimensions in mm
   sizes: {
     
     "inches": [
@@ -1326,7 +1326,7 @@ export const products: Product[] = [
   category: 'Pillow',
   image: 'https://5.imimg.com/data5/SELLER/Default/2023/4/302931898/EI/YD/WD/42711985/memory-foam-neck-pillow-500x500.png', // Replace with an actual coir-related image URL
   densities: ['16 Inch * 24 Inch' , '17 Inch * 27 Inch'],
-  dimensions: [1], // Dimensions in mm
+  dimensions: [10,20], // Dimensions in mm
   sizes: {
     
     "inches": [
@@ -1363,7 +1363,7 @@ export const products: Product[] = [
   category: 'Pillow',
   image: 'https://ak1.ostkcdn.com/images/products/21155818/Cheer-Collection-Contoured-Latex-Foam-Pillow-with-Washable-Cover-5c2167e5-a64a-4a7f-a8a9-58fad88a7dfd_600.jpg?impolicy=medium', // Replace with an actual coir-related image URL
   densities: ['16 inch * 24 inch ' , '17 inch * 27 inch'],
-  dimensions: [1], // Dimensions in mm
+  dimensions: [10], // Dimensions in mm
   sizes: {
   
     "inches": [
@@ -1487,7 +1487,28 @@ export const products: Product[] = [
   image: 'https://m.media-amazon.com/images/I/51jBvuwVBRL._AC_UF1000,1000_QL80_.jpg', // Replace with an actual image URL
   densities: ["40"],
   dimensions: [6],
-  sizes: [],
+  sizes: {
+    "feet": [
+    '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+    '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+    '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+  ],
+  "inches": [
+    '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+    '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+    '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+  ],
+  "cm": [
+    '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+    '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+    '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+  ],
+  "mm": [
+    '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+    '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+    '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+  ],
+},
   features: ['Portable', 'Durable', 'Easy to store', 'Customizable sizes'],
   specs: {
     'Material': 'Foam',
@@ -1506,7 +1527,28 @@ export const products: Product[] = [
   image: 'https://5.imimg.com/data5/YR/ET/IH/SELLER-99902182/four-section-mattress-for-fowler-icu-beds-500x500-500x500.jpg', // Replace with an actual image URL
   densities: ["40"],
   dimensions: [6],
-  sizes: [],
+  sizes: {
+    "feet": [
+    '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+    '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+    '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+  ],
+  "inches": [
+    '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+    '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+    '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+  ],
+  "cm": [
+    '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+    '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+    '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+  ],
+  "mm": [
+    '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+    '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+    '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+  ],
+},
   features: ['Portable', 'Durable', 'Easy to store', 'Customizable sizes'],
   specs: {
     'Material': 'Foam',
@@ -1528,7 +1570,28 @@ export const products: Product[] = [
   image: 'https://aerocommattress.com/wp-content/uploads/2023/10/NO-FOLD-1.jpg', // Replace with an actual image URL
   densities: ['40'],
   dimensions: [60],
-  sizes: [''],
+  sizes: {
+    "feet": [
+    '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+    '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+    '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+  ],
+  "inches": [
+    '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+    '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+    '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+  ],
+  "cm": [
+    '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+    '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+    '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+  ],
+  "mm": [
+    '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+    '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+    '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+  ],
+},
   features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
   specs: {
     'Material': 'Foam',
@@ -1547,7 +1610,28 @@ export const products: Product[] = [
   image: 'https://assets.hillrom.com/is/image/hillrom/PST300_flat_top_2-parts_leg-pdp-carousel?$pdpImage$', // Replace with an actual image URL
   densities: ['40'],
   dimensions: [60],
-  sizes: [],
+  sizes: {
+    "feet": [
+    '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+    '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+    '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+  ],
+  "inches": [
+    '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+    '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+    '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+  ],
+  "cm": [
+    '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+    '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+    '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+  ],
+  "mm": [
+    '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+    '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+    '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+  ],
+},
   features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
   specs: {
     'Material': 'Foam',
@@ -1566,7 +1650,28 @@ export const products: Product[] = [
   image: 'https://lh3.googleusercontent.com/d/1aIBp7H_lLACQ9j-pRFB5yWOFk2Q6e6wv=s220?authuser=0', // Replace with an actual image URL
   densities: ['40'],
   dimensions: [60],
-  sizes: [],
+  sizes: {
+    "feet": [
+    '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+    '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+    '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+  ],
+  "inches": [
+    '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+    '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+    '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+  ],
+  "cm": [
+    '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+    '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+    '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+  ],
+  "mm": [
+    '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+    '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+    '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+  ],
+},
   features: ['Comfortable', 'Durable', 'Easy to clean', 'Customizable sizes'],
   specs: {
     'Material': 'Foam',
@@ -1585,7 +1690,28 @@ export const products: Product[] = [
   image: 'https://euro-industry.com/pics/Bostik/bostik-2402-d40.png', // Replace with an actual image URL
   densities: ['50'],
   dimensions: [40],
-  sizes: [''],
+  sizes: {
+    "feet": [
+    '6 feet x 2 feet', '6 feet x 2.5 feet', '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet',
+    '6.25 feet x 2 feet', '6.25 feet x 2.5 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet',
+    '6.5 feet x 2 feet', '6.5 feet x 2.5 feet', '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+  ],
+  "inches": [
+    '72 inches x 24 inches', '72 inches x 30 inches', '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+    '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+    '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+  ],
+  "cm": [
+    '183 cm x 61 cm', '183 cm x 76 cm', '183 cm x 91 cm', '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+    '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+    '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+  ],
+  "mm": [
+    '1829 mm x 610 mm', '1829 mm x 762 mm', '1829 mm x 914 mm', '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+    '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+    '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+  ],
+},
   features: ['Strong bond', 'Durable', 'Easy to apply'],
   specs: {
     'Material': 'Adhesive',
@@ -1622,7 +1748,7 @@ export const products: Product[] = [
   basePrice: 10,
   category: 'Mattress Raw Material',
   image: 'https://5.imimg.com/data5/SELLER/Default/2023/10/356752699/FY/LU/TT/16330860/bonnell-spring-unit.jpg', // Replace with an actual image URL
-  densities: [],
+  densities: ['High Quality Grade'],
   dimensions: [75, 100, 110, 125,150], // Dimensions in mm thickness
   sizes: {
     "feet": [
