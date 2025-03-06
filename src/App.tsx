@@ -74,8 +74,17 @@ function App() {
         <div className="container mx-auto px-4 py-6">
           <div className="flex items-center justify-between mb-8">
             <div className="flex items-center gap-2">
+<<<<<<< Updated upstream
               <Store className="h-8 w-8" />
               <h1 className="text-3xl font-bold">Gurukrupa Traders</h1>
+=======
+              {/* <Store className="h-8 w-8" /> */}
+              <img src="gktLogo.png" alt="Logo" className="h-10 w-18" />
+                <h1 className="text-3xl font-bold">
+                <span className="text-red-500">Gurukrupa</span> <span className="text-blue-900">Traders</span>
+                </h1>
+      
+>>>>>>> Stashed changes
             </div>
             <Cart
               items={cartItems}
