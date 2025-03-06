@@ -1,55 +1,12 @@
 import { Product } from '@/lib/types';
 
 export const products: Product[] = [
-  {
-    id: '1',
-    name: 'White LD PU Foam',
-    description: 'High-quality foam padding material perfect for furniture, packaging, and industrial applications.',
-    basePrice: 10,
-    category: 'Packing Material',
-    image: 'https://5.imimg.com/data5/XF/AM/SG/NSDMERP-56297551/image-1000x1000.jpeg',
-    densities: ['9 density', ],
-    dimensions: [2,3, 4,  5, 6, 7, 8, 9 ,10,12,15,18,19, 20,21, 25, 30,35, 40,45, 50,70, 75,80,85,90,95, 100,125, 150, 200, 250],
-    
-      sizes: {
-        "feet": [
-          '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet', 
-          '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
-        ],
-        "inches": [
-          '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
-          '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
-          '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
-        ],
-        "cm": [
-         '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
-          '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
-          '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
-        ],
-        "mm": [
-          '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
-          '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
-          '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
-        ]
-      },
-    
-    
-    features: ['Durable', 'Fire resistant', 'Moisture resistant', 'Custom cuttable'],
-    specs: {
-      'Material': 'Polyurethane',
-      'Certification': 'ISO 9001',
-      'Fire Rating': 'Class B',
-      'Color': 'White'
-    },
-    metrics: ['mm', 'cm', 'inch', 'feet']
-  },
-
   // {
-  //   id: '2',
+  //   id: '1',
   //   name: 'White LD PU Foam',
   //   description: 'High-quality foam padding material perfect for furniture, packaging, and industrial applications.',
   //   basePrice: 10,
-  //   category: 'Mattress Raw Material',
+  //   category: 'Packing Material',
   //   image: 'https://5.imimg.com/data5/XF/AM/SG/NSDMERP-56297551/image-1000x1000.jpeg',
   //   densities: ['9 density', ],
   //   dimensions: [2,3, 4,  5, 6, 7, 8, 9 ,10,12,15,18,19, 20,21, 25, 30,35, 40,45, 50,70, 75,80,85,90,95, 100,125, 150, 200, 250],
@@ -86,6 +43,49 @@ export const products: Product[] = [
   //   },
   //   metrics: ['mm', 'cm', 'inch', 'feet']
   // },
+
+  {
+    id: '2',
+    name: 'White LD PU Foam',
+    description: 'High-quality foam padding material perfect for furniture, packaging, and industrial applications.',
+    basePrice: 10,
+    category: 'Mattress Raw Material',
+    image: 'https://5.imimg.com/data5/XF/AM/SG/NSDMERP-56297551/image-1000x1000.jpeg',
+    densities: ['9 density', ],
+    dimensions: [2,3, 4,  5, 6, 7, 8, 9 ,10,12,15,18,19, 20,21, 25, 30,35, 40,45, 50,70, 75,80,85,90,95, 100,125, 150, 200, 250],
+    
+      sizes: {
+        "feet": [
+          '6 feet x 3 feet', '6 feet x 4 feet', '6 feet x 5 feet', '6 feet x 6 feet', '6.25 feet x 3 feet', '6.25 feet x 4 feet', '6.25 feet x 5 feet', '6.25 feet x 6 feet', 
+          '6.5 feet x 3 feet', '6.5 feet x 4 feet', '6.5 feet x 5 feet', '6.5 feet x 6 feet'
+        ],
+        "inches": [
+          '72 inches x 36 inches', '72 inches x 48 inches', '72 inches x 60 inches', '72 inches x 72 inches',
+          '75 inches x 24 inches', '75 inches x 30 inches', '75 inches x 36 inches', '75 inches x 48 inches', '75 inches x 60 inches', '75 inches x 72 inches',
+          '78 inches x 24 inches', '78 inches x 30 inches', '78 inches x 36 inches', '78 inches x 48 inches', '78 inches x 60 inches', '78 inches x 72 inches'
+        ],
+        "cm": [
+         '183 cm x 122 cm', '183 cm x 152 cm', '183 cm x 183 cm',
+          '191 cm x 61 cm', '191 cm x 76 cm', '191 cm x 91 cm', '191 cm x 122 cm', '191 cm x 152 cm', '191 cm x 183 cm',
+          '198 cm x 61 cm', '198 cm x 76 cm', '198 cm x 91 cm', '198 cm x 122 cm', '198 cm x 152 cm', '198 cm x 183 cm'
+        ],
+        "mm": [
+          '1829 mm x 1219 mm', '1829 mm x 1524 mm', '1829 mm x 1829 mm',
+          '1905 mm x 610 mm', '1905 mm x 762 mm', '1905 mm x 914 mm', '1905 mm x 1219 mm', '1905 mm x 1524 mm', '1905 mm x 1829 mm',
+          '1981 mm x 610 mm', '1981 mm x 762 mm', '1981 mm x 914 mm', '1981 mm x 1219 mm', '1981 mm x 1524 mm', '1981 mm x 1829 mm'
+        ]
+      },
+    
+    
+    features: ['Durable', 'Fire resistant', 'Moisture resistant', 'Custom cuttable'],
+    specs: {
+      'Material': 'Polyurethane',
+      'Certification': 'ISO 9001',
+      'Fire Rating': 'Class B',
+      'Color': 'White'
+    },
+    metrics: ['mm', 'cm', 'inch', 'feet']
+  },
   {
     id: '3',
     name: 'HD PU Foam',
@@ -2962,25 +2962,25 @@ export const products: Product[] = [
 //   metrics: ['mm', 'cm', 'inch', 'feet']
 // },
 
-{
-  id: "77",
-  name: "EVA FOAM Sheet",
-  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-  basePrice: 10,
-  category: "Packing Material",
-  image: "https://img1.exportersindia.com/product_images/bc-full/2023/9/6502960/eva-foam-sheet-1693806200-7062806.jpeg",
-  densities: ["10 Density"],
-  dimensions: [42,78],
-  sizes: ['100 meter'], 
-  features: [],
-  specs: {
-    "Material": "EPE Foam",
-    "Certification": "ISO 9001",
-    "Fire Rating": "Class C",
-    "Color": "White"
-  },
-  metrics: ['mm', 'cm', 'inch', 'feet']
-},
+// {
+//   id: "77",
+//   name: "EVA FOAM Sheet",
+//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+//   basePrice: 10,
+//   category: "Packing Material",
+//   image: "https://img1.exportersindia.com/product_images/bc-full/2023/9/6502960/eva-foam-sheet-1693806200-7062806.jpeg",
+//   densities: ["10 Density"],
+//   dimensions: [42,78],
+//   sizes: ['100 meter'], 
+//   features: [],
+//   specs: {
+//     "Material": "EPE Foam",
+//     "Certification": "ISO 9001",
+//     "Fire Rating": "Class C",
+//     "Color": "White"
+//   },
+//   metrics: ['mm', 'cm', 'inch', 'feet']
+// },
 
 // {
 //   id: "78",
@@ -3063,25 +3063,25 @@ export const products: Product[] = [
 //   metrics: ['mm', 'cm', 'inch', 'feet']
 // },
 
-{
-  id: "82",
-  name: "Memory Foam Roll",
-  description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
-  basePrice: 10,
-  category: "Packing Material",
-  image: "https://5.imimg.com/data5/GI/KR/NT/SELLER-96235740/flame-lamination-pu-foam-roll-500x500.jpg",
-  densities: ["10 Density"],
-  dimensions: [42,78],
-  sizes: ['100 meter'], 
-  features: [],
-  specs: {
-    "Material": "EPE Foam",
-    "Certification": "ISO 9001",
-    "Fire Rating": "Class C",
-    "Color": "White"
-  },
-  metrics: ['mm', 'cm', 'inch', 'feet']
-},
+// {
+//   id: "82",
+//   name: "Memory Foam Roll",
+//   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
+//   basePrice: 10,
+//   category: "Packing Material",
+//   image: "https://5.imimg.com/data5/GI/KR/NT/SELLER-96235740/flame-lamination-pu-foam-roll-500x500.jpg",
+//   densities: ["10 Density"],
+//   dimensions: [42,78],
+//   sizes: ['100 meter'], 
+//   features: [],
+//   specs: {
+//     "Material": "EPE Foam",
+//     "Certification": "ISO 9001",
+//     "Fire Rating": "Class C",
+//     "Color": "White"
+//   },
+//   metrics: ['mm', 'cm', 'inch', 'feet']
+// },
 
 // {
 //   id: "83",
