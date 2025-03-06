@@ -74,10 +74,10 @@ function App() {
         <div className="container mx-auto px-4 py-6">
           <div className="flex items-center justify-between mb-8">
             <div className="flex items-center gap-2">
-<img src="gktLogo.png" alt="Logo" className="h-10 w-18" />
-<h1 className="text-3xl font-bold">
-  <span className="text-red-500">Gurukrupa</span> <span className="text-blue-900">Traders</span>
-</h1>
+              <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=320,fit=crop,q=95/YX4a2ypDZOuOgqlL/whatsapp-image-2025-03-05-at-4.30.54-pm-Yg2q3zQMybsJ2LlR.jpeg" alt="Logo" className="h-14 w-18" />
+              <h1 className="text-3xl font-bold">
+              <span className="text-red-500">Gurukrupa</span> <span className="text-blue-900">Traders</span>
+              </h1>
             </div>
             <Cart
               items={cartItems}
