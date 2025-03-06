@@ -89,7 +89,7 @@ export const products: Product[] = [
   {
     id: '3',
     name: 'HD PU Foam',
-    description: 'High-density polyurethane foam suitable for premium furniture, bedding, and industrial uses.',
+    description: 'High-density polyurethane foam suitable for premium furniture, Wadding, and industrial uses.',
     basePrice: 10,
     category: 'Mattress Raw Material',
     image: 'https://makerbazar.in/cdn/shop/products/high-density-pu-foam-500x500.webp?v=1681727081&width=500',
@@ -133,7 +133,7 @@ export const products: Product[] = [
 {
       id: '4',
       name: 'HD PU Foam',
-      description: 'High-density polyurethane foam suitable for premium furniture, bedding, and industrial uses.',
+      description: 'High-density polyurethane foam suitable for premium furniture, Wadding, and industrial uses.',
       basePrice: 10,
       category: 'Packing Material',
       image: 'https://makerbazar.in/cdn/shop/products/high-density-pu-foam-500x500.webp?v=1681727081&width=500',
@@ -262,7 +262,7 @@ export const products: Product[] = [
 {
   id: '7',
   name: 'Memory Foam Sheets',
-  description: 'High-quality memory foam sheets ideal for bedding, upholstery, and customized cushioning applications.',
+  description: 'High-quality memory foam sheets ideal for Wadding, upholstery, and customized cushioning applications.',
   basePrice: 10, // Adjust as needed
   category: 'Mattress Raw Material',
   image: 'https://tiimg.tistatic.com/fp/1/007/209/white-color-memory-foam-sheets-263.jpg',
@@ -306,7 +306,7 @@ export const products: Product[] = [
 {
   id: '8',
   name: 'Memory Foam Sheets',
-  description: 'High-quality memory foam sheets ideal for bedding, upholstery, and customized cushioning applications.',
+  description: 'High-quality memory foam sheets ideal for Wadding, upholstery, and customized cushioning applications.',
   basePrice: 10, // Adjust as needed
   category: 'Packing Material',
   image: 'https://tiimg.tistatic.com/fp/1/007/209/white-color-memory-foam-sheets-263.jpg',
@@ -350,7 +350,7 @@ export const products: Product[] = [
 { 
   id: '9',
   name: 'Gel Memory Foam Sheets',
-  description: 'Premium gel-infused memory foam sheets designed for superior comfort and durability, suitable for bedding, furniture, and specialized applications.',
+  description: 'Premium gel-infused memory foam sheets designed for superior comfort and durability, suitable for Wadding, furniture, and specialized applications.',
   basePrice: 10, // Assuming a base price; adjust as needed
   category: 'Mattress Raw Material',
   image: 'https://m.media-amazon.com/images/I/81LvYefzOFL._SL1500_.jpg',
@@ -394,7 +394,7 @@ export const products: Product[] = [
   { 
     id: '10',
     name: 'Gel Memory Foam Sheets',
-    description: 'Premium gel-infused memory foam sheets designed for superior comfort and durability, suitable for bedding, furniture, and specialized applications.',
+    description: 'Premium gel-infused memory foam sheets designed for superior comfort and durability, suitable for Wadding, furniture, and specialized applications.',
     basePrice: 10, // Assuming a base price; adjust as needed
     category: 'Packing Material',
     image: 'https://m.media-amazon.com/images/I/81LvYefzOFL._SL1500_.jpg',
@@ -438,7 +438,7 @@ export const products: Product[] = [
   {
     id: '11',
       name: 'Natural LATEX SHEET', 
-      description: 'High-quality latex sheet material suitable for bedding, furniture, and industrial uses.',
+      description: 'High-quality latex sheet material suitable for Wadding, furniture, and industrial uses.',
       basePrice: 15,
       category: 'Mattress Raw Material',
       image: 'https://5.imimg.com/data5/ANDROID/Default/2020/9/HH/UG/DH/44643334/product-jpeg-500x500.png',
@@ -478,7 +478,7 @@ export const products: Product[] = [
   {
     id: '12',
       name: 'Natural LATEX SHEET', 
-      description: 'High-quality latex sheet material suitable for bedding, furniture, and industrial uses.',
+      description: 'High-quality latex sheet material suitable for Wadding, furniture, and industrial uses.',
       basePrice: 15,
       category: 'Packing Material',
       image: 'https://5.imimg.com/data5/ANDROID/Default/2020/9/HH/UG/DH/44643334/product-jpeg-500x500.png',
@@ -518,7 +518,7 @@ export const products: Product[] = [
   {
     id: '13',
     name: 'Natural LATEX 7 ZONE SHEETS',
-    description: 'Premium 7-zone latex foam sheets designed for optimal comfort and support in bedding, furniture, and ergonomic applications.',
+    description: 'Premium 7-zone latex foam sheets designed for optimal comfort and support in Wadding, furniture, and ergonomic applications.',
     basePrice: 20, // Example base price, you can update this value
     category: 'Mattress Raw Material',
     image: 'https://5.imimg.com/data5/SELLER/Default/2023/9/341157692/MM/LX/YE/141117433/zero-foam-flex-mattress-1000x1000.jpeg', // Replace with an appropriate image URL if available
@@ -561,7 +561,7 @@ export const products: Product[] = [
   {
     id: '14',
     name: 'Natural LATEX 7 ZONE SHEETS',
-    description: 'Premium 7-zone latex foam sheets designed for optimal comfort and support in bedding, furniture, and ergonomic applications.',
+    description: 'Premium 7-zone latex foam sheets designed for optimal comfort and support in Wadding, furniture, and ergonomic applications.',
     basePrice: 20, // Example base price, you can update this value
     category: 'Packing Material',
     image: 'https://5.imimg.com/data5/SELLER/Default/2023/9/341157692/MM/LX/YE/141117433/zero-foam-flex-mattress-1000x1000.jpeg', // Replace with an appropriate image URL if available
@@ -782,7 +782,7 @@ export const products: Product[] = [
   {
     id: '19',
     name: 'HR Foam',
-    description: 'High-resilience foam suitable for a variety of applications including furniture, bedding, and industrial uses.',
+    description: 'High-resilience foam suitable for a variety of applications including furniture, Wadding, and industrial uses.',
     basePrice: 10,
     category: 'Mattress Raw Material',
     image: 'https://lh3.googleusercontent.com/d/1f8X2nqJvAgHpWJpf_OfTGHzrp7M2gA4U=s220?authuser=0', // Replace with an actual image URL
@@ -823,7 +823,7 @@ export const products: Product[] = [
     {
       id: '20',
       name: 'HR Foam',
-      description: 'High-resilience foam suitable for a variety of applications including furniture, bedding, and industrial uses.',
+      description: 'High-resilience foam suitable for a variety of applications including furniture, Wadding, and industrial uses.',
       basePrice: 10,
       category: 'Packing Material',
       image: 'https://lh3.googleusercontent.com/d/1f8X2nqJvAgHpWJpf_OfTGHzrp7M2gA4U=s220?authuser=0', // Replace with an actual image URL
@@ -865,7 +865,7 @@ export const products: Product[] = [
     {
       id: '21',
       name: 'Fire Retardant Foam (FR FOAM)',
-      description: 'High-resilience foam suitable for a variety of applications including furniture, bedding, and industrial uses.',
+      description: 'High-resilience foam suitable for a variety of applications including furniture, Wadding, and industrial uses.',
       basePrice: 10,
       category: 'Mattress Raw Material',
       image: 'https://cpimg.tistatic.com/04540749/b/4/Fire-Retardant-Foam.jpg', // Replace with an actual image URL
@@ -907,7 +907,7 @@ export const products: Product[] = [
     {
       id: '22',
       name: 'Fire Retardant Foam (FR FOAM)',
-      description: 'High-resilience foam suitable for a variety of applications including furniture, bedding, and industrial uses.',
+      description: 'High-resilience foam suitable for a variety of applications including furniture, Wadding, and industrial uses.',
       basePrice: 10,
       category: 'Packing Material',
       image: 'https://cpimg.tistatic.com/04540749/b/4/Fire-Retardant-Foam.jpg', // Replace with an actual image URL
@@ -948,7 +948,7 @@ export const products: Product[] = [
     {
       id: '23',
       name: 'Convulated Foam',
-      description: 'High-resilience foam suitable for a variety of applications including furniture, bedding, and industrial uses.',
+      description: 'High-resilience foam suitable for a variety of applications including furniture, Wadding, and industrial uses.',
       basePrice: 10,
       category: 'Mattress Raw Material',
       image: 'https://5.imimg.com/data5/ANDROID/Default/2021/4/EF/QY/TW/169569/product-jpeg-500x500.jpg', // Replace with an actual image URL
@@ -989,7 +989,7 @@ export const products: Product[] = [
     {
       id: '24',
       name: 'Convulated Foam',
-      description: 'High-resilience foam suitable for a variety of applications including furniture, bedding, and industrial uses.',
+      description: 'High-resilience foam suitable for a variety of applications including furniture, Wadding, and industrial uses.',
       basePrice: 10,
       category: 'Packing Material',
       image: 'https://5.imimg.com/data5/ANDROID/Default/2021/4/EF/QY/TW/169569/product-jpeg-500x500.jpg', // Replace with an actual image URL
@@ -1031,7 +1031,7 @@ export const products: Product[] = [
 {
   id: '25',
   name: 'Bonnel Spring mattress ',
-  description: 'High-quality bonnel spring suitable for mattresses and other bedding applications.',
+  description: 'High-quality bonnel spring suitable for mattresses and other Wadding applications.',
   basePrice: 10,
   category: 'Mattress Raw Material',
   image: 'https://5.imimg.com/data5/HP/QS/MY-54889916/8-inch-bonnell-spring-mattress.jpg', // Replace with an actual image URL
@@ -1072,7 +1072,7 @@ export const products: Product[] = [
 {
   id: '26',
   name: 'Pocket Spring',
-  description: 'High-quality pocket spring suitable for mattresses and other bedding applications.',
+  description: 'High-quality pocket spring suitable for mattresses and other Wadding applications.',
   basePrice: 10,
   category: 'Mattress Raw Material',
   image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrwlQTIravsWohMjQMm7uaikDFK6IssioJLA&s', // Replace with an actual image URL
@@ -1419,6 +1419,7 @@ export const products: Product[] = [
 
 
   {
+    // 
     id: '35',
     name: 'Cotlook Quilting Fabric',
     description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
@@ -1458,6 +1459,7 @@ export const products: Product[] = [
       'Color': 'White'
     },metrics: ['mm', 'cm', 'inch', 'feet'],
     dimensions: [5,7,10,12,15,20,25],
+   // variants:["Cotlook Fabric","Cotlook Fabric with Foam","Cotlook Fabric with Cotton","Cotlook Fabric with Non-Wooven","Cotlook Fabric with Foam Roll"],
   },
 
   {
@@ -1591,7 +1593,7 @@ export const products: Product[] = [
   {
     //80 inch width ; 88 inch width
 id: '39',
-name: 'China Fabric with Quilting Cotton Bedding',
+name: 'China Fabric with Quilting Cotton Wadding',
 description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
 basePrice: 10,
 category: 'Fabric & Quiltings',
@@ -1839,7 +1841,7 @@ dimensions: [5,7,10,12,15,20,25],
 
 {
   id: '45',
-  name: 'Satin Fabric with Cotton Bedding Roll',
+  name: 'Satin Fabric with Cotton Wadding Roll',
   description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
   basePrice: 10,
   category: 'Fabric & Quiltings',
@@ -1918,7 +1920,7 @@ dimensions: [5,7,10,12,15,20,25],
 {
   //image from assets folder
   id: '47',
-  name: 'Stretchable Fabric with Cotton Bedding Roll',
+  name: 'Stretchable Fabric with Cotton Wadding Roll',
   description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
   basePrice: 10,
   category: 'Fabric & Quiltings',
@@ -2003,7 +2005,7 @@ dimensions: [5,7,10,12,15,20,25],
 
 {
   id: '49',
-  name: 'Knitting Jacquard Fabric with Cotton Bedding Roll',
+  name: 'Knitting Jacquard Fabric with Cotton Wadding Roll',
   description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
   basePrice: 10,
   category: 'Fabric & Quiltings',
@@ -2081,7 +2083,7 @@ dimensions: [5,7,10,12,15,20,25],
 
 {
   id: '51',
-  name: 'Knitting Jacquard Fabric with Fiber bedding Roll',
+  name: 'Knitting Jacquard Fabric with Fiber Wadding Roll',
   description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
   basePrice: 10,
   category: 'Fabric & Quiltings',
@@ -2198,7 +2200,7 @@ dimensions: [5,7,10,12,15,20,25],
 
 {
   id: '54',
-  name: ' Cotton Quilting Fabric with Cotton Bedding Roll',
+  name: ' Cotton Quilting Fabric with Cotton Wadding Roll',
   description: 'High-quality quilting material ideal for a variety of applications, offering durability and smooth texture.',
   basePrice: 10,
   category: 'Fabric & Quiltings',
@@ -2924,7 +2926,7 @@ dimensions: [5,7,10,12,15,20,25],
   description: "High-quality EPE foam roll, ideal for packing and protecting delicate items during transportation.",
   basePrice: 10,
   category: "Hardware & Accessories",
-  image: "https://image.made-in-china.com/202f0j00tflYEThrFoqB/Bedding-Tape-Mattress-Webbing-Tape-Bedding-Material.webp",
+  image: "https://image.made-in-china.com/202f0j00tflYEThrFoqB/Wadding-Tape-Mattress-Webbing-Tape-Wadding-Material.webp",
   densities: ["10 Density"],
   dimensions: [42,78],
   sizes: ['100 meter'], 
@@ -3576,7 +3578,7 @@ dimensions: [5,7,10,12,15,20,25],
 // {
 //   id: '50',
 //   name: 'Bonnel Spring unit',
-//   description: 'High-quality bonnel spring suitable for mattresses and other bedding applications.',
+//   description: 'High-quality bonnel spring suitable for mattresses and other Wadding applications.',
 //   basePrice: 10,
 //   category: 'Mattress Raw Material',
 //   image: 'https://5.imimg.com/data5/SELLER/Default/2023/10/356752699/FY/LU/TT/16330860/bonnell-spring-unit.jpg', // Replace with an actual image URL
@@ -3616,7 +3618,7 @@ dimensions: [5,7,10,12,15,20,25],
 // {
 //   id: '51',
 //   name: 'Pocket Spring',
-//   description: 'High-quality pocket spring suitable for mattresses and other bedding applications.',
+//   description: 'High-quality pocket spring suitable for mattresses and other Wadding applications.',
 //   basePrice: 10,
 //   category: 'Mattress Raw Material',
 //   image: 'https://5.imimg.com/data5/CN/FI/MY-11071994/pocket-spring-mattress-unit-500x500.jpg', // Replace with an actual image URL
