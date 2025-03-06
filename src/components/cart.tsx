@@ -180,32 +180,36 @@ export function Cart({ items, onUpdateQuantity, onRemoveItem }: CartProps) {
       
       const invoiceContent = `
         <div style="font-family: Arial, sans-serif; padding: 20px; max-width: 800px; margin: 0 auto;">
-          <div style="text-align: center; margin-bottom: 30px;">
-            <h1 style="margin: 0; font-size: 24px; color: #333;">GURUKRUPA TRADERS</h1>
-            <h2 style="margin: 10px 0; font-size: 20px; color: #666;">INVOICE</h2>
-            <p style="margin: 5px 0; color: #666;">Date: ${new Date().toLocaleDateString()}</p>
+          <div style="margin-bottom: 30px;">
+        <img src="gktLogo.png" alt="Logo" style="width: 100px; margin-bottom: 10px;" />
+        <h1 style="margin: 0; font-size: 24px; color: #333;">
+          <span style="color: red; font-weight: bold;">GURUKRUPA</span> 
+          <span style="color: darkblue; font-weight: bold;">TRADERS</span>
+        </h1>
+        <h2 style="margin: 10px 0; font-size: 20px; color: #666;">INVOICE</h2>
+        <p style="margin: 5px 0; color: #666;">Date: ${new Date().toLocaleDateString()}</p>
           </div>
 
           <div style="margin-bottom: 30px;">
-            ${items.map(item => `
-              <div style="border-bottom: 1px solid #eee; padding: 10px 0; margin-bottom: 10px;">
-                <div style="margin-bottom: 5px;">
-                  <strong>${item.product.name}</strong>
-                  <br />
-                  <span style="color: #666; font-size: 14px;">
-                    ${item.selection.size}, ${item.selection.density}, ${item.selection.dimension}mm
-                  </span>
-                </div>
-                <div style="display: flex; justify-content: space-between; align-items: center;">
-                  <span>Quantity: ${item.quantity}</span>
-                  <span>${formatPrice(item.price * item.quantity)}</span>
-                </div>
-              </div>
-            `).join('')}
+        ${items.map(item => `
+          <div style="border-bottom: 1px solid #eee; padding: 10px 0; margin-bottom: 10px;">
+            <div style="margin-bottom: 5px;">
+          <strong>${item.product.name}</strong>
+          <br />
+          <span style="color: #666; font-size: 14px;">
+            ${item.selection.size}, ${item.selection.density}, ${item.selection.dimension}mm
+          </span>
+            </div>
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+          <span>Quantity: ${item.quantity}</span>
+          <span>${formatPrice(item.price * item.quantity)}</span>
+            </div>
+          </div>
+        `).join('')}
           </div>
 
           <div style="text-align: right; margin-top: 20px; padding-top: 20px; border-top: 2px solid #333;">
-            <h3 style="margin: 0; font-size: 18px;">Total Amount: ${formatPrice(totalAmount)}</h3>
+        <h3 style="margin: 0; font-size: 18px;">Total Amount: ${formatPrice(totalAmount)}</h3>
           </div>
         </div>
       `;
