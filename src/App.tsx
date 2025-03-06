@@ -76,6 +76,7 @@ function App() {
             <div className="flex items-center gap-2">
 <<<<<<< Updated upstream
               <Store className="h-8 w-8" />
+                <img src="../gktLogo.png" alt="Logo"/>
               <h1 className="text-3xl font-bold">Gurukrupa Traders</h1>
 =======
               {/* <Store className="h-8 w-8" /> */}
