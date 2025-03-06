@@ -4,7 +4,7 @@ import { ProductFilters } from '@/components/product-filters';
 import { Cart } from '@/components/cart';
 import { products } from '@/data/products';
 import { FilterState, CartItem, Product, ProductSelection } from '@/lib/types';
-import { Store } from 'lucide-react';
+// import { Store } from 'lucide-react';
 import { Toaster } from '@/components/ui/toaster';
 
 function App() {
