@@ -45,13 +45,14 @@ export const products: Product[] = [
   // },
 
   {
+    //5.5 inr per mm; size in mm missing
     id: '2',
     name: 'White LD PU Foam',
     description: 'High-quality foam padding material perfect for furniture, packaging, and industrial applications.',
     basePrice: 10,
     category: 'Mattress Raw Material',
     image: 'https://5.imimg.com/data5/XF/AM/SG/NSDMERP-56297551/image-1000x1000.jpeg',
-    densities: ['9 density', ],
+    densities: ['9 density'],
     dimensions: [2,3, 4,  5, 6, 7, 8, 9 ,10,12,15,18,19, 20,21, 25, 30,35, 40,45, 50,70, 75,80,85,90,95, 100,125, 150, 200, 250],
     
       sizes: {
@@ -181,7 +182,7 @@ export const products: Product[] = [
       basePrice: 10, // Adjust the price if needed
       category: 'Mattress Raw Material',
       image: 'https://5.imimg.com/data5/RA/FY/MY-56919196/super-soft-foam-sheet.jpg',
-      densities: ['24 density', '28 density', '32 density','40 density', '40 HD density'],
+      densities: ['24 density', '28 density', '32 density','40 density', '40 HR density'],
       dimensions: [2,3, 4,  5, 6, 7, 8, 9 ,10,12,15,18,19, 20,21, 25, 30,35, 40,45, 50,70, 75,80,85,90,95, 100,125, 150, 200, 250],
       sizes: {
         "feet": [
@@ -1112,7 +1113,7 @@ export const products: Product[] = [
 
   {
   id: '27',
-  name: 'EPE SHEETS (Hilton)',
+  name: 'EPE SHEETS (Hitlon)',
   description: 'High-quality EPE foam sheets, perfect for packaging and protecting a wide range of items during storage or transportation.',
   basePrice: 10,
   category: 'Mattress Raw Material',

@@ -12,11 +12,13 @@ export function calculatePrice(basePrice: number, selection: ProductSelection): 
   const sizeMultiplier = getSizeMultiplier(selection.size);
   
   return basePrice * dimensionMultiplier * densityMultiplier * sizeMultiplier;
+
+  console.log(`Base Price: ${basePrice}, Dimension Multiplier: ${dimensionMultiplier}, Density Multiplier: ${densityMultiplier}, Size Multiplier: ${sizeMultiplier}, Calculated Price: ${calculatePrice}`);
 }
 
 function getDensityMultiplier(density: string): number {
   const multipliers: Record<string, number> = {
-    '9 density': 9,
+    '9 density': 5.5,
     '10 density': 10,
     '12 density': 12,
     '14 density': 14,
